@@ -1,7 +1,7 @@
 # II.<br />Im Lößland am Hoang ho. {#zwei .unnumbered }
 
 ::: justified
-Tung kwan ting ist die Schlüsselburg von Nordwestchina. Im Sterben, mit seiner
+**T**ung kwan ting ist die Schlüsselburg von Nordwestchina. Im Sterben, mit seiner
 letzten Kraft, gab der große Eroberer Dschinggis Khan seinen Mongolen den Rat,
 alles daranzusetzen, um diese Stadt und die dortige Enge in ihre Gewalt zu
 bekommen.
@@ -135,7 +135,7 @@ stehen. Durch ein starkes enges Tor gelangt man in einen großen Vorhof. Dieser
 war zur Zeit meines Besuchs dicht gefüllt mit allerhand Gauklern, Krämern und
 Dioramakästen, in denen natürlich Europa nicht im schönsten Lichte erschien. Im
 zweiten Hof muß man auf drei zierlichen Steinbrücken über einen künstlichen
-Graben. Im Hintergrund steht ein großes Tempel- gebäude, entsprechend der
+Graben. Im Hintergrund steht ein großes Tempelgebäude, entsprechend der
 Holzarmut der Umgebung wenig hoch; auf seinen Seiten finden sich mehrere große
 alte Inschriftsteine. Die ganze Anlage ist für uns heute noch dadurch denkwürdig
 geworden, daß die verstorbene Kaiserin-Mutter zusammen mit dem Kaiser Kuangsü
@@ -908,7 +908,8 @@ melden, „früher — jetzt weniger — sagte man auch Hu kou dafür.“
 Auch Hu kou wird schon im Yü kung genannt. Keiner der alten chinesischen
 Kommentatoren des Werkes wußte ja auch, daß in Hu kou der Hoang ho wie siedendes
 Wasser zische. Ja freilich brodelt und zischt hier der Ho! Es ist wirklich ein
-Hu kou, eine Kochtopfklamm^[^0223]^ ([Abb. 6](#b063), Tafel XVIII u. XIX).
+Hu kou, eine Kochtopfklamm^[^0223]^ ([Abb. 6](#b063), Tafel [XVIII](#b080c) u.
+[XIX](#b080d)).
 
 Die Leute im Ort Lung wang tschen leben von diesem Hindernis. Hunderte von
 Booten kommen Jährlich hier durch und werden etwa einen Kilometer weit auf
@@ -922,7 +923,7 @@ viele hundert Arbeiter Beschäftigung. Ende November 1907 sah ich noch 30 mit Ga
 ts‘ao beladene Bau tu-Boote in Tung kwan ting liegen. Sie waren eben auf der
 Durchreise nach Ho nan.
 
-:::: {.wrap-40 .float-right }
+:::: {.wrap-50 .float-right }
 ![Abb.6.](Meine_Tibetreise_I_063.jpg ""){#b063}
 ::::
 
@@ -1022,15 +1023,15 @@ nach anderthalb bis zwei Jahren, war es in den Häusern noch wie zuvor. In viele
 Distrikten gab es jahrelang gar keine Einwohner mehr.“
 
 Die Spuren von Winderosion, die Reste von Wüstenbildung, wurden hier, im Norden,
-immer reichlicher (Tafel XXIII). Die Stirnseiten der horizontal liegenden
-Sandsteinschichten bekamen sonderbare, wilde Formen sowohl im Haupttal als auch
-in den Seitentälern des Hoang ho. Wo nur aus der dicken Lößdecke noch Felsen
-heraussahen, waren sie von zahllosen gerundeten Löchern bis zu einem Meter Tiefe
-ausgehöhlt. Vertikal zum Schichtensystem waren riesige Platten wie Krusten von
-den Felsen abgesprungen. Gleichwie bedeckt von Riesenwaben erschienen ganze
-Bergseiten. Wie diese natürlichen Höhlungen sahen auch die menschlichen
-Behausungen aus. Die meisten waren echte Lößhöhlen, die in die Lößwände zwischen
-die terrassierten Felder eingegraben waren.
+immer reichlicher ([Tafel XXIII](ch005.xhtml#b096b)). Die Stirnseiten der
+horizontal liegenden Sandsteinschichten bekamen sonderbare, wilde Formen sowohl
+im Haupttal als auch in den Seitentälern des Hoang ho. Wo nur aus der dicken
+Lößdecke noch Felsen heraussahen, waren sie von zahllosen gerundeten Löchern bis
+zu einem Meter Tiefe ausgehöhlt. Vertikal zum Schichtensystem waren riesige
+Platten wie Krusten von den Felsen abgesprungen. Gleichwie bedeckt von
+Riesenwaben erschienen ganze Bergseiten. Wie diese natürlichen Höhlungen sahen
+auch die menschlichen Behausungen aus. Die meisten waren echte Lößhöhlen, die in
+die Lößwände zwischen die terrassierten Felder eingegraben waren.
 
 Die Lößberge Schen si’s und Schan si’s sind von den Chinesen seit Jahrtausenden
 mit Hacke und Schaufel in Terrassen umgewandelt worden. Viele sehen wie die
@@ -1059,9 +1060,9 @@ Lößdecke, zumal wenn das Haus einige Jahrzehnte alt ist, nicht allzu selten
 stattfindet. Weil gerade die vertikalen Frontseiten der Lößhöhlenhäuser am
 leichtesten einbrechen, so ist, wo einmal die Siedlungen größer, die Bauern
 reicher geworden sind, zumal auf der Schan si-Seite des Hoang ho, der
-Höhleneingang durch ein Steingewölbe geschützt und geschmückt , an das sich erst
+Höhleneingang durch ein Steingewölbe geschützt und geschmückt, an das sich erst
 Nach einigen Metern die "alte echte Lößhöhle von der gleichen gerade gestreckten
-Gangform anschließt (Tafel XXI).
+Gangform anschließt ([Tafel XXI](ch005.xhtml#b096)).
 
 Neben den bloßen Höhlen und Höhlenhäusern mit Gewölbeeingängen aus Steinen und
 Ziegeln finden sich auf der ganzen Länge meines Wegs von dem Marktflecken Lung
@@ -1149,21 +1150,21 @@ auf vielen hundert Kamelen aus der Mongolei und aus Kan su durchgeführt und
 verhandelt,
 
 Eine alte chinesische Kunststraße zieht sich von Ki kou einige 20 km weit am
-Ho-Ufer hin (Tafel XXII). Plötzlich hörte diese auf; ich wurde vom Ufer weg und
-auf eine Höhe gedrängt und, einmal oben‚ brachten mich die Lößschluchten und
-Lößwege immer weiter ab von meinem eigentlichen Ziele‚ Endlos an vertikalen,
-bald künstlichen, bald natürlichen Lößabstürzen hin führten mich die Pfade
-schmal und krumm, auf und ab den Bergkämmen entlang. Ein breites und zum Reisen
-viel bequemeres Tal lockte zuletzt noch weiter im Osten, kurz am dritten Tage
-hinter Ki kou war ich gegen meinen Willen wieder einmal auf einer richtigen
-chinesischen Landstraße, wo im Lokalverkehr sogar Karren verwendet werden
-können, wo die ansässigen Bauern alle Kilometer weit öffentliche, mit allen
-Schikanen eingerichtete Aborthäuschen errichtet haben, wo besondere Mistbeete in
-der Mitte der Landstraße zum selben Zwecke für die Pferde und Maultiere angelegt
-sind; also wieder in einem Zentrum der chinesischen, kleinlich utilitaristischen
-Zivilisation. Und da fand ich die Stadt Lin hsien mit ihren hübsch gepflegten
-Stadtmauern, ihren großen Gebäuden mit sauberen hohen Steingewölben, mit
-Tempeln, die nicht zerfallen waren.
+Ho-Ufer hin ([Tafel XXII](ch005.xhtml#b096)). Plötzlich hörte diese auf; ich
+wurde vom Ufer weg und auf eine Höhe gedrängt und, einmal oben‚ brachten mich
+die Lößschluchten und Lößwege immer weiter ab von meinem eigentlichen Ziele‚
+Endlos an vertikalen, bald künstlichen, bald natürlichen Lößabstürzen hin
+führten mich die Pfade schmal und krumm, auf und ab den Bergkämmen entlang. Ein
+breites und zum Reisen viel bequemeres Tal lockte zuletzt noch weiter im Osten,
+kurz am dritten Tage hinter Ki kou war ich gegen meinen Willen wieder einmal auf
+einer richtigen chinesischen Landstraße, wo im Lokalverkehr sogar Karren
+verwendet werden können, wo die ansässigen Bauern alle Kilometer weit
+öffentliche, mit allen Schikanen eingerichtete Aborthäuschen errichtet haben, wo
+besondere Mistbeete in der Mitte der Landstraße zum selben Zwecke für die Pferde
+und Maultiere angelegt sind; also wieder in einem Zentrum der chinesischen,
+kleinlich utilitaristischen Zivilisation. Und da fand ich die Stadt Lin hsien
+mit ihren hübsch gepflegten Stadtmauern, ihren großen Gebäuden mit sauberen
+hohen Steingewölben, mit Tempeln, die nicht zerfallen waren.
 
 Lin hsien ist eine sehr gesuchte Pfründe der chinesischen Beamtenwelt, die jedem
 „Ti fang kwan“^[^0228]^ noch immer viele tausend Tael eingebracht hat. „Seit
@@ -1203,11 +1204,11 @@ Provinzrichter, verfügt worden war.
 Von Lin hsien eine kleine Tagereise nach Nordwesten liegt der Tse kin schan und
 Dang du schan. Mit dichtem Buschwald bedeckt erhebt sich diese Berggruppe in
 steilen Felsen, die teilweise aus Granit, meist aus jüngerem, teilweise sogar
-trachytischem Eruptivgestein bestehen. Auf den Gipfeln stehen Tempel (Tafel
-XXIV), die auch im,, Gewölbestil“ gebaut sind, und jährlich im dritten Monat
-findet dort oben eine große Messe statt. Dann drängen sich Tausende um ein
-Plätzchen, von dem aus die Theateraufführungen in dem engen Hof vor dem Tempel
-zu sehen sind.
+trachytischem Eruptivgestein bestehen. Auf den Gipfeln stehen Tempel 
+([Tafel XXIV](ch005.xhtml#b096d)), die auch im „Gewölbestil“ gebaut sind, und jährlich
+im dritten Monat findet dort oben eine große Messe statt. Dann drängen sich
+Tausende um ein Plätzchen, von dem aus die Theateraufführungen in dem engen Hof
+vor dem Tempel zu sehen sind.
 
 Bei meinem Besuch aber war es herrlich ruhig dort oben. Nur die vielen, vielen
 chinesischen Götterbilder, die Hauptgötter, die man überall trifit, glotzten
@@ -1348,7 +1349,7 @@ ihren Mann zum Essen, ehe er das Zeichen gab, — da ging plötzlich der Berg
 keinen Zoll mehr weiter. Die Frau hatte durch ihr Rufen ihrem Mann die
 Vollendung seines Werkes unmöglich gemacht. Und so steht heute noch der Berg von
 Kia tschou einige Kilometer von dem Katarakt entfernt und jährlich geschieht
-darum dort so viel Unglück (Tafel XXV).
+darum dort so viel Unglück ([Tafel XXV](ch005.xhtml#b112)).
 
 Es war jetzt, Anfang Juli, die Zeit der Opiumernte gekommen. Auf den Feldern sah
 man überall die braunen nackten Körper der Chinesen zwischen den hohen
@@ -1898,31 +1899,31 @@ zieht ungefähr westöstlich. Die Gegend außerhalb ist wieder flacher, so daß 
 vielfach Karren verkehren können. Alle Höhen dort draußen sind wieder dicht mit
 Löß eingedeckt.
 
-Bei Yang fang kou, wo ich durch die Mauer kam (Tafel XXVII), war einst ein
-ziemlich wichtiges Wassertor. Heute ist nicht mehr viel davon übrig geblieben.
-In einer Breite von 100 m hat der geröllreiche Bach schon vor Jahrzehnten die
-letzten Pfeiler des schwächlichen und widersinnigen Werkes samt der Hälfte des
-dahinter liegenden großen Lagers mit fortgerissen. Nur noch die Reste von zwei
-großen eisernen Rindern liegen unter dem Schutt des Geröllbettes. Es sollen aber
-einst neun^[^0241]^ solcher Rinder gewesen sein, die je einen Pfeiler des Tores zu
-tragen hatten. Die Chinesen glaubten durch Bilder der ihnen heiligen Tiere die
-einzelnen Pfeiler am besten vor dem Anprall plötzlich hereinbrechender
-Hochwasser zu schützen. Die Mauer selbst, wie sie so scheinbar endlos über die
-Höhen hinzieht, macht auch in dieser Gegend einen imposanten Eindruck. Es ist
-eine richtige Mauer hier, nicht nur eine Kette von Türmen und Wachthäusern wie
-bei Schaleang. In kurzen Zwischenräumen, alle 70 m, springen massive Bastionen
-vor, und vorn wie hinten ist der massive gestampfte Lößrücken, soweit ich sah,
-von einem Ziegelmantel bekleidet. Auch der oben noch 4 m breite Wallgang ist mit
-Ziegeln belegt und wo die Mauer steile Berghalden hinaufsteigt, bildet der
-Wallgang eine breite Treppe. Trotz des weit vorgeschrittenen Zerfalls macht aber
-das Bauwerk keinen sehr alten Eindruck. Dieser innere Zweig der Mauer stammt ja
-vielleicht ganz aus der Ming-Zeit. Außerhalb der Mauer fallen uns noch in allen
-Richtungen große Beobachtungstürme (Signale, Landmarken aus Löß, Dun tai) in die
-Augen. Auf jeder etwas vorstehenden Anhöhe und an den Straßenzügen entlang alle
-5 Li stehen sie, 6—10 m hoch, viereckig, mit einem kleinen Wall umgeben, ganz
-massiv, frühere Fanalstationen, die so rasch wie möglich anreitende feindliche
-Heerscharen in die Hauptquartiere zu melden hatten. Zahllos sind diese Türme und
-„Blockhäuser“ auch noch hinter So tschou^[^0242]^.
+Bei Yang fang kou, wo ich durch die Mauer kam ([Tafel XXVII](ch005.xhtml#b112b)), 
+war einst ein ziemlich wichtiges Wassertor. Heute ist nicht mehr viel davon
+übrig geblieben. In einer Breite von 100 m hat der geröllreiche Bach schon vor
+Jahrzehnten die letzten Pfeiler des schwächlichen und widersinnigen Werkes samt
+der Hälfte des dahinter liegenden großen Lagers mit fortgerissen. Nur noch die
+Reste von zwei großen eisernen Rindern liegen unter dem Schutt des Geröllbettes.
+Es sollen aber einst neun^[^0241]^ solcher Rinder gewesen sein, die je einen
+Pfeiler des Tores zu tragen hatten. Die Chinesen glaubten durch Bilder der ihnen
+heiligen Tiere die einzelnen Pfeiler am besten vor dem Anprall plötzlich
+hereinbrechender Hochwasser zu schützen. Die Mauer selbst, wie sie so scheinbar
+endlos über die Höhen hinzieht, macht auch in dieser Gegend einen imposanten
+Eindruck. Es ist eine richtige Mauer hier, nicht nur eine Kette von Türmen und
+Wachthäusern wie bei Schaleang. In kurzen Zwischenräumen, alle 70 m, springen
+massive Bastionen vor, und vorn wie hinten ist der massive gestampfte Lößrücken,
+soweit ich sah, von einem Ziegelmantel bekleidet. Auch der oben noch 4 m breite
+Wallgang ist mit Ziegeln belegt und wo die Mauer steile Berghalden hinaufsteigt,
+bildet der Wallgang eine breite Treppe. Trotz des weit vorgeschrittenen Zerfalls
+macht aber das Bauwerk keinen sehr alten Eindruck. Dieser innere Zweig der Mauer
+stammt ja vielleicht ganz aus der Ming-Zeit. Außerhalb der Mauer fallen uns noch
+in allen Richtungen große Beobachtungstürme (Signale, Landmarken aus Löß, Dun
+tai) in die Augen. Auf jeder etwas vorstehenden Anhöhe und an den Straßenzügen
+entlang alle 5 Li stehen sie, 6—10 m hoch, viereckig, mit einem kleinen Wall
+umgeben, ganz massiv, frühere Fanalstationen, die so rasch wie möglich
+anreitende feindliche Heerscharen in die Hauptquartiere zu melden hatten.
+Zahllos sind diese Türme und „Blockhäuser“ auch noch hinter So tschou^[^0242]^.
 
 Die Gegend — ich zog jetzt nach Nordwesten weiter — ist kahl und öde, Es gibt
 nicht sehr viele Dörfer, aber viele alte Befestigungen. Ein riesiges Lager, mehr
@@ -2011,7 +2012,7 @@ Wage von Amts wegen als genau und als Standard bezeichnet und dort fand alles
 Silberwiegen statt, d. h. wer in der Stadt eine Bezahlung in Silber erhielt, und
 sei es nur im Wert von zwei bis drei Mark, der lief damit zu dem einen amtlichen
 Wiegemeister und fühlte sich erst nach dessen Prüfung sicher, daß er nicht
-betrogen worden war. Man hat ja Zeit genug in China (Tafel XXVII).
+betrogen worden war. Man hat ja Zeit genug in China ([Tafel XXVII](ch005.xhtml#b112c)).
 
 Auch in Tsing schui ho ting war es für den Uneingeweihten zuerst schwer, sich in
 der Zahlweise zurechtzufinden, denn dort gab es eine Rechnungsweise, nach der 35

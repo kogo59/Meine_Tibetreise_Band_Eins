@@ -5,7 +5,7 @@
 :::: { .fs-jumbo .align-center }
 <br />
 **Meine Tibetreise**
-<br /><br />
+<br />
 ::::
 
 :::: { .fs-l .align-center }

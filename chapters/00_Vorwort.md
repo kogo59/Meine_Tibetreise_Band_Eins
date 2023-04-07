@@ -122,11 +122,11 @@ richtig geschrieben werden können, daß überdies diese Schriftweisen auf die s
 abweichenden Dialekte, die teilweise eigene Sprachen geworden sind, keine
 Rücksicht nehmen, und daß sie sich oft zum heutigen Tibetisch oder Mongolisch
 verhalten wie etwa Mittelhochdeutsch zum heutigen Niederdeutsch. Von G.
-Schulemann^[^0000]^^[^0001]^ist vorgeschlagen worden, in der Geographie Tibets die Namen
-künftig in einer dem Sanskrit ähnlichen Weise zu umschreiben, ein Gedanke, der
-anfänglich sehr besticht; aber vereinfacht hat er damit nichts für den
-Geographen, und da ich von meinem Leser nicht verlangen will, daß er erst die
-vielen verschiedenen Zischlaute des Tibetischen auswendig lernt, ehe er mein
+Schulemann^[^0000]^^[^0001]^ ist vorgeschlagen worden, in der Geographie Tibets
+die Namen künftig in einer dem Sanskrit ähnlichen Weise zu umschreiben, ein
+Gedanke, der anfänglich sehr besticht; aber vereinfacht hat er damit nichts für
+den Geographen, und da ich von meinem Leser nicht verlangen will, daß er erst
+die vielen verschiedenen Zischlaute des Tibetischen auswendig lernt, ehe er mein
 Buch zur Hand nimmt, so habe ich auch für die tibetischen Namen eine dem
 gewöhnlichen deutschen Buchstabengebrauch möglichst gleichgeartete Schreibweise
 vorgezogen. Ich habe aber einige Male die gehörte Aussprache durch das
