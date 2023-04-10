@@ -1802,7 +1802,7 @@ Mandschu-Banner mit einem Tatarengeneral an der Spitze untergebracht waren,
 denen der Landfrieden in diesem Teil des Reichs anvertraut war. Diese
 Garnisonstadt machte einen besonders kläglichen Eindruck. Abgesehen von den
 Mandschu-Frauen, die mit ihrer breit und flügelartig ausladenden mandschurischen
-Haartracht (Tafel XXXVII) auf ihren natürlich und groß gelassenen Füßen
+Haartracht ([Tafel XXXVII](ch006.xhtml#b171a)) auf ihren natürlich und groß gelassenen Füßen
 schwerfällig auf hohen, kothurnartigen Schuhen einherschwankten, war sie von
 einer Chinesenstadt in nichts verschieden. Die Bewohner sprachen alle
 Chinesisch. Ich hörte auch hier kein einziges mandschurisches Wort. Der einzige
@@ -2551,8 +2551,7 @@ auf den Menschen, daß er ihnen helfe. Sie tragen dabei die Lasten infolge ihrer
 schmal gebauten Kruppe viel ruhiger als die Ponys. Auf einer halbwegs guten
 Straße machten meine Maultiere mit den drei bis vier Zentnern auf ihrem Rücken
 in der ersten Stunde am Morgen nur 4 km. Hatten sie aber einmal 30 oder 40 km
-hinter sich, so war ihre stündliche Leistung stets auf 6 km gestiegen (Tafel
-XXXII).
+hinter sich, so war ihre stündliche Leistung stets auf 6 km gestiegen ([TafelXXXII](#b128h)).
 
 Am Abend des zweitletzten Tagesmarsches vor Lan tschou fu zitterte ich aber doch
 für meine Habseligkeiten. Ich hielt es damals kaum für möglich, daß die Ausbeute
