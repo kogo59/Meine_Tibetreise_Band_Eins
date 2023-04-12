@@ -570,7 +570,7 @@ Auge nach Westen dringen kann, glaubt man ein einziges welliges Plateau vor sich
 zu haben. an, glaubt
 
 Doch dies ist nur Schein. Wild zerrissen ist all das lößbedeckte Sandsteinland
-um den Hoang ho (Tafel [XVII](#b080a)). Lauter steile, Hunderte von Metern tiefe
+um den Hoang ho ([Tafel XVII](#b080a)). Lauter steile, Hunderte von Metern tiefe
 Schluchten trennen die einzelnen Berge. Und schmale Fußwege, oft winzige
 Pfadchen nur, die ein Äckerchen mit dem anderen, eine Terrasse mit der nächsten
 verbinden, das waren von nun an meine Straßen. Ein Gebiet also, das nur wenig

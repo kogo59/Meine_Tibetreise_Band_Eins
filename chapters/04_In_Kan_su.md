@@ -143,7 +143,7 @@ Alluvialebene, durch die der Hoang ho zumeist auch breit dahinfließt. Südlich
 und westlich der Stadt steigen ganz nahe den Umfassungsmauern von Löß überzogene
 rote Tonberge auf, die in den Mohammedanerkriegen des 19. Jahrhunderts befestigt
 wurden. Von dem nördlichsten, gegen den Fluß hin äußersten Punkte dieser Berge
-ist die Ansicht der Stadt aufgenommen, die auf Tafel XLIII deren Lage
+ist die Ansicht der Stadt aufgenommen, die auf [Tafel XLIII](ch007.xhtml#192b) deren Lage
 wiedergibt.
 
 Die Stadt Lan tschou fu bedeckt kein großes Areal (s. meine kartogr. Ergebnisse
