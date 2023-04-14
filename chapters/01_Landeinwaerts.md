@@ -1,15 +1,11 @@
 # I.<br />Landeinwärts. {#eins .unnumbered }
 
 
-::: align-right
-Die Erinnerung ist das einzige Paradies,
-woraus wir nicht vertrieben werden können.
-:::
-
-::: align-right
+::: { .align-right .fs-xs } 
+Die Erinnerung ist das einzige Paradies,<br />
+woraus wir nicht vertrieben werden können.<br />
 Jean Paul.
 :::
-
 
 ::: justified
 

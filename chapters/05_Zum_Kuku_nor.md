@@ -2,7 +2,7 @@
 
 ::: justified
 
-Ich hatte mir in einem kleinen Wiesental ein paar Stunden südlich von der Stadt
+**I**ch hatte mir in einem kleinen Wiesental ein paar Stunden südlich von der Stadt
 Dankar acht Yak von Tibetern aus Tombum da erstanden, die zum Handeltreiben nach
 Dankar gekommen waren. Mit diesen acht Yak und fünf berittenen und von mir
 bewaffneten Dienern sowie einigen Lastponys, außerdem begleitet von einem
@@ -150,7 +150,7 @@ tibetischer Reisenächte vollenden half.
 So freundlich mich die Mönche von Gomba soma _ bewirtet, sie hatten es nicht
 unterlassen können, meine chinesischen Begleiter in große Unruhe und Sorge zu
 versetzen. Sie hatten ihnen erklärt und, wie es scheint, um ihren Worten mehr
-Nachdruck zu verleihen, auch,durch ein rasch befragtes Orakel noch fester
+Nachdruck zu verleihen, auch, durch ein rasch befragtes Orakel noch fester
 bewiesen, daß meine Expedition unglücklich enden würde. Das Orakel lautete:
 „Sieben Menschen werden Unglück haben!“ Wir waren nun sieben Menschen mit dem
 Hsie dia zusammen, und die Lamas hatten behauptet, wenn ich als Ungläubiger ein
@@ -1386,7 +1386,7 @@ nicht blicken.
 :::
 
 :::: { .wrap-80 }
-![Rückkehr der Truppen vom Frühlingsfest in Hs ning fu.](Meine_Tibetreise_I_208d.jpg "Rückkehr der Truppen vom Frühlingsfest in Hs ning fu."){#b208d}
+![Der Tscham-Tanz in Gum bum.](Meine_Tibetreise_I_208d.jpg "Der Tscham-Tanz in Gum bum."){#b208d}
 :::
 
 :::: { .wrap-100 }
@@ -1394,7 +1394,7 @@ nicht blicken.
 :::
 
 :::: { .wrap-100 }
-![Kloster Gum bum <small>(südöstliche Teilansicht).</small>)](Meine_Tibetreise_I_208f.jpg "Kloster Gum bum."){#b208f}
+![Kloster Gum bum <small>(südöstliche Teilansicht).</small>](Meine_Tibetreise_I_208f.jpg "Kloster Gum bum."){#b208f}
 :::
 
 Der Gegenstand der Anbetung ist dabei wie überall im Reich ein Rind, das etwa
