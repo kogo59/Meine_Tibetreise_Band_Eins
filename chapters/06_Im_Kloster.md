@@ -1293,9 +1293,6 @@ Gepränge nicht vergessen.
 ![Die Gläubigen verbeugen sich vor dem Kambo von Gum bum.](Meine_Tibetreise_I_240h.jpg "Die Gläubigen verbeugen sich vor dem Kambo von Gum bum."){#b240h}
 ::::
 
-
-
-
 :::
 
 ### **Anmerkungen** {.break-before .unnumbered}
