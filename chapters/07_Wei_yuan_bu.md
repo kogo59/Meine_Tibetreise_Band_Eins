@@ -266,7 +266,7 @@ etwas weit Besseres und Vornehmeres als die Chinesen und Tibeter. Sie lieben
 auch die eigentlichen Mongolen nicht. Es geht dies schon deutlich aus deren
 Beinamen „h‘ara“ = schwarz hervor, es bedeutet dies natürlich zugleich böse,
 während sie selbst die tsah‘an, die weißen, guten Schafe sind. Im Chinesischen
-nennen sie sich selbst „Turen“. In einem Tal im Westen von Wei yüan bu sagten
+nennen sie sich selbst „Tu ren“. In einem Tal im Westen von Wei yüan bu sagten
 sie zu mir: „Wir hier sind ‚Tu gu h‘u ren‘ und wir sind diejenigen, die
 zuallererst da waren.“ Diejenigen freilich, die sich als Tu gu h‘u ren (oft auch
 Tu gu h‘ung ausgesprochen) bezeichneten, fand ich nicht sehr zahlreich,
@@ -286,7 +286,7 @@ Kaiser gegen die Einfälle der Tibeter unterstützt haben, d. h. er war eine Art
 Grenzwächter für die Chinesen^[^0709]^.
 
 :::: fs-xxs
-Was das oben genannte Nan ding wang-Reich betrifft, von dem die Turen sprachen,
+Was das oben genannte Nan ding wang-Reich betrifft, von dem die Tu ren sprachen,
 so ist es jedenfalls das Königreich Anting oder Nganting, das zwischen Kantschou
 und Hsining gewesen sein soll. Buyin Timur, ein kaiserlicher Prinz, war dort als
 König während der Yüan-Dynastie eingesetzt worden. Seine Nachkommen konnten sich
@@ -299,7 +299,7 @@ duan Wei, Tsch'ü hsien wei, Han tungwei zu Hsining, Tsch‘edschin wei und Scha
 tschon zu Sütschou. Unter „Nan ding wang“ soll die Stadt Weiyüan bu noch nicht
 gestanden haben.
 
-Damit, daß die Turen behaupteten, ihr Nationalheros habe den Hoang tsch‘ao
+Damit, daß die Tu ren behaupteten, ihr Nationalheros habe den Hoang tsch‘ao
 bezwungen, könnte man bei dieser Persönlichkeit an den großen „Scha to-Türken“
 (?) Li denken (schato = die Steppe im NW von Kalgan). Nach Wieger, Textes
 historiques, Bd. 3, war Hoang tsch'ao einer der schlimmsten Wüteriche in der mit
@@ -385,7 +385,7 @@ Das Hauptfest der Tu ren ist zu Anfang des zweiten chinesischen Monats jeden
 Jahres und fällt in die Tage, wenn die während der kältesten Jahreszeit
 erstarrten Flüsse eben wieder aufzugehen anfangen, aber ehe die Feldarbeit
 beginnt; es ist zugleich das Jahresfest der Mutter Erde. Während 8—10 Tagen
-kommen die Turen, aber auch noch viele andere Bewohner der Umgegend hier mit
+kommen die Tu ren, aber auch noch viele andere Bewohner der Umgegend hier mit
 ihren Frauen und Kindern zusammen, um zu trinken, zu singen und zu spielen. Man
 versammelt sich auf einer Festwiese im Süden vor den Mauern des Städtchens neben
 alten chinesischen Gräbern. Ein großer Tempel in rein chinesischem Stil steht
@@ -502,7 +502,7 @@ Kleinkinderknochen hergestellt seien. Um einige ihrer Sagen und Lieder zu
 bekommen, brauchte es tagelanges Zureden und viel Bakschisch, und die
 allergrößte Mühe hatte ich, einige der Männer zu bewegen, daß sie
 anthropologische Messungen an sich vornehmen und Photographien von sich machen
-ließen. Es war besonders schwierig, da die Turen zumeist gutsituierte und
+ließen. Es war besonders schwierig, da die Tu ren zumeist gutsituierte und
 intelligente Bauern sind und es in den vorausgegangenen Jahren immer gute Ernten
 gegeben hatte. „Wozu du dies haben willst,“ sagten die Leute, „verstehen wir
 nicht, ein solcher Vorschlag ist noch nie zuvor gemacht worden und dein Geld und
@@ -657,7 +657,7 @@ weit sicherer und besser im Leihhaus.“
 ::::
 
 :::: { .wrap-100 }
-![Schara khoto <small>(von Osten geschen).</small>](Meine_Tibetreise_I_256a.jpg "Schara khoto."){#b256a}
+![Schara khoto <small>(von Osten gesehen).</small>](Meine_Tibetreise_I_256a.jpg "Schara khoto."){#b256a}
 ::::
 
 :::: { .wrap-100 }
