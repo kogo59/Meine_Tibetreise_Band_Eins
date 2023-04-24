@@ -390,7 +390,7 @@ Regierung einzuholen. Lhasa schickt jetzt einen „Kampo“, einen hohen tibetis
 Priester von Traschilhumpo (in der Hierarchie etwa einem Bischof entsprechend),
 dorthin, der für seine Regierung Steuern erhebt und alle drei Jahre wechselt.
 Das Schang-Gebiet ist durch seine Zugehörigkeit zu Lhasa eine Zufluchtstätte für
-alle diejenigen geworden, die die chinesische Justiz zu fürchten haben, Seit
+alle diejenigen geworden, die die chinesische Justiz zu fürchten haben. Seit
 Herbst 1904 wohnte hier auch die Pamba-Gemeinde des Gän ts‘a-Stammes, die im
 Sommer zuvor meinen guten Bekannten, den Ambandolmetscher Ts‘ai, am Nordufer des
 Kuku nor ermordet hatte. Es waren dreißig Familien, die Ts‘ai in amtlichem
