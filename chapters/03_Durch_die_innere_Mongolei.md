@@ -937,7 +937,7 @@ allerdings nicht ebenso weit her; solcher Art Fragen mochte er auch nicht
 leiden. Er entschuldigte seine Unkenntnis stets damit, daß er ja nicht lesen
 gelernt habe, außerdem sei er Zimmermann und nicht ordinierter Priester. Er
 erzählte mir nur einmal von „Malia“^[^0328]^; ich bin aber nicht sicher, ob er damit
-nicht einen Mann gemeint hat,
+nicht einen Mann gemeint hat.
 
 Hsiao kiao pan ist, wie die Mehrzahl der Missionsstationen an der mongolischen
 Grenze, eine Kolonie, eine Art christlicher Musterwirtschaft. Langsam wurden von
@@ -949,7 +949,7 @@ Christengemeinde enger zusammengehalten, ihre in Gewissenssachen gerne so sehr
 verschieden und lax denkenden Mitglieder können kontrolliert werden. Die Peres
 verlangen regelmäßigen Besuch des Gottesdienstes und von den Kindern den Besuch
 ihrer Schulen und der Kinderlehre. Die Christen werden gehalten, nicht Opium zu
-rauchen und nicht um Geld zu spielen, die beiden Hauptlaster der Chinesen,
+rauchen und nicht um Geld zu spielen, die beiden Hauptlaster der Chinesen.
 
 Innerhalb der burgartigen Umwallung, die eine Höhe von 3 m hat, liegen in Hsiao
 kiao pan die Kirche, die Wohnung der Pöres, große Vorratskammern für Fälle der
@@ -1014,7 +1014,7 @@ Chinesin, eine Witwe, klagte aus Wut darüber den Pater an, er habe ihren Mann
 umgebracht. Das war natürlich von Grund aus erlogen, aber angeklagt war er, und
 da er auf sein gutes Gewissen pochte und nicht, wie es landesüblich gewesen
 wäre, auf die Macht des Silbers, so mußte er schließlich die Reise nach der
-Provinzialhauptstadt antreten und jahrelang in Hsi ngan fu_bleiben, bis die
+Provinzialhauptstadt antreten und jahrelang in Hsi ngan fu bleiben, bis die
 Grundlosigkeit der Behauptung der christenfeindlichen Gegenpartei als erwiesen
 anerkannt war und er seine Rehabilitierung durchgesetzt hatte. Die Chinesin aber
 besaß so lange ruhig weiter das Monopol für ihr kleines Brückenbrett.
@@ -1383,7 +1383,7 @@ Familien reihum und nach einem halben oder ganzen Jahr durch Wahl an eine andere
 übergeht. Auch um seinen Kaiser kümmerte man sich, je weiter er weg war, desto
 weniger. Es fehlt aber gleichzeitig der weit überwiegenden Mehrzahl jeglicher
 Gemeinsinn. Der schwere Kampf ums Dasein scheint alle zu klein denkenden
-Egoisten gemacht zu haben,
+Egoisten gemacht zu haben.
 
 Am 9. Oktober erreichte ich Kin (spr.: Tschin) tse pu, ebenfalls eine Oase, die
 erst durch künstliche Bewässerung entstanden und auf drei Seiten von Wüsten und
@@ -1589,7 +1589,7 @@ Ning hsia fu hatten überfallen wollen. „Die Mandschu müssen weg, ihre Zeit i
 abgelaufen!“ „Da! da!“ „Haut! haut!“ schrie nun nur um so wilder der Mandarin.
 Und so haben sie die Gefangenen mit den amtlichen Marterstöcken totgeprügelt^[^0340]^.
 
-Einen Tag nach diesem Putschversuch reiste ich weiter., Die Bevölkerung verhielt
+Einen Tag nach diesem Putschversuch reiste ich weiter. Die Bevölkerung verhielt
 sich ruhig. Ich begegnete nur ungewöhnlich vielen Soldaten, die auf den Straßen
 patroullierten und mir gerne im Vorübergehen noch ein unflätiges Wort
 nachsandten. An einer Fähre 15 km nördlich von Ning ling ting setzte ich über
@@ -1657,7 +1657,7 @@ einstige Wichtigkeit hin.
 :::: fs-xs
 
 Ning hsia fu hieß früher Hsing tschou (chin.) und ist vielleicht das „Irgai‘“
-der arabischen Geographen des Mittelalters (egrigai = steiler Fels)., Nach dem
+der arabischen Geographen des Mittelalters (egrigai = steiler Fels). Nach dem
 mongolischen Geschichtschreiber Sanang Setsen hieß es „Turmege“. Es war lange
 Zeit die Hauptstadt des Reiches Hsi Hsia, das von 1004—1226 als ein unabhängiger
 Staat bestand und den größten Teil der heutigen Provinz Kansu und die Ordos bis
@@ -2207,7 +2207,7 @@ geographischen Breite wie etwa Sizilien eine Meereshöhe von 1200 und bald darau
 1500 m zeigten, erwärmte sich die Luft darum fast jeden Morgen außerordentlich
 rasch und erreichte Maxima bis zu +14°.
 
-Von Ning hsia fu _ bis zur Stadt Tschung wei hsien führt die Straße — ich reiste
+Von Ning hsia fu bis zur Stadt Tschung wei hsien führt die Straße — ich reiste
 auf der kaiserlichen Heerstraße — zwischen Feldern, und das Tal des Hoang ho war
 stets sehr gut angebaut. Aus Lehm und Backstein gebaut, standen alle 5 km fünf
 alte große Meilensteine neben einem kleinen Turm und einem Wachhaus, an dessen
@@ -2661,7 +2661,7 @@ bis 1368 währte.]{.footnote}
 
 [^0315]: [Das Ordos-Land, das Gebiet innerhalb des großen Bogens des Hoang ho, wird von den Chinesen „Ho tao“ genannt und ist zurzeit von den Ordos-Mongolen bewohnt. „Ordu“ == chinesisch „ting“ (Pavillon) = Lager, Kgl. Hoflager. Es ist ursprünglich ein türkisches Wort. Im besonderen wurde darunter das Lager des mongolischen Großkhan Dschinggis und später die goldene Horde verstanden, die seine irdischen Reste hütete. Die „Ordus“ nennt Sanang Setsen in seiner „Geschichte der Ostmongolen“ (Schmidt, Petersburg 1829, S. 191) „die Hüter der acht weißen Häuser (Filzyurten) des Herrschers“, Diese nahmen erst ums Jahr 1530 ihr jetziges Land in Besitz und brachten die Gebeine ihres Bogda Dschinggis Khan vom Norden, höchst wahrscheinlich vom Ufer des Kerulen, mit sich. Noch jetzt sehen die Ordos-Mongolen das Land um den Altai als ihre Heimat an.<br />Das heutige Ordos-Land kam durch die Kriegszüge des Dschinggis Khan 1227 zum erstenmal in die Hand der Mongolen. Vorher bildete es einen Teil des Hsi HsiaReiches (s. S. 125). Nach der Vertreibung der Yüan- oder Mongolendynastie aus China wurde den Mongolen um 1380 auch das heutige Ordos-Land weggenommen. Sie eroberten es aber nach wechselnden Kämpfen gegen Ende des 15. Jahrhunderts von den Chinesen zurück und nach langem und blutigem Ringen der Mongolen untereinander blieben schließlich die Ordos die Sieger und Herren des Landes. Ein Teil der Stämme, die sich hier bekämpft hatten, ist angeblich von hier aus in das Weideland des Kuku nor eingefallen. (Aus: Meng gu yu mu dyi, Chronik der mongol. Nomaden.).]{.footnote}
 
-[^0316]: [Von den 49 Bannern der „inneren“ oder „nai meng gu“ werden sieben Banner von den Ordos-Mongolen gestellt, die zusammen eine große Versammlung oder Ting (ighe tsu) bilden. Es sind dies die:<br />1. Dalat, im Norden, südlich Bau tu-Stadt.<br /> 2. Tschunggar, im Nordosten, unweit Tokto ting (To ko to ting).<br /> 3. Wang, südlich Dalat, in der Mitte der östlichen Ordos.<br /> 4. Dschassak, im Südosten der Ordos.<br /> 5. Uschin (bei Sanang Setsen Uguschin), im Süden von Wang.<br /> 6. Hanggin, im Nordwesten.<br /> 7. Otok, im Südwesten.<br /> Diese sieben zusammen bilden den Ordos-Stamm. Das älteste Banner soll Wang sein. In diesem Stamme werden auch die wichtigen Überreste des Dschinggis aufbewahrt. Bis in die Mitte des 17, Jahrhunderts waren es nur sechs Banner. Die Oberhoheit über die sieben Banner ist nicht erblich und wird von Fall zu Fall von der chinesischen Regierung verliehen. Die „innere Mongolei“ wurde von den Mandschuren in sechs Division_en (meng) und im ganzen 49 Banner eingeteilt. Diese verteilen sich auf 24 Stämme (aimak oder chinesisch bu).]{.footnote}
+[^0316]: [Von den 49 Bannern der „inneren“ oder „nai meng gu“ werden sieben Banner von den Ordos-Mongolen gestellt, die zusammen eine große Versammlung oder Ting (ighe tsu) bilden. Es sind dies die:<br />1. Dalat, im Norden, südlich Bau tu-Stadt.<br /> 2. Tschunggar, im Nordosten, unweit Tokto ting (To ko to ting).<br /> 3. Wang, südlich Dalat, in der Mitte der östlichen Ordos.<br /> 4. Dschassak, im Südosten der Ordos.<br /> 5. Uschin (bei Sanang Setsen Uguschin), im Süden von Wang.<br /> 6. Hanggin, im Nordwesten.<br /> 7. Otok, im Südwesten.<br /> Diese sieben zusammen bilden den Ordos-Stamm. Das älteste Banner soll Wang sein. In diesem Stamme werden auch die wichtigen Überreste des Dschinggis aufbewahrt. Bis in die Mitte des 17, Jahrhunderts waren es nur sechs Banner. Die Oberhoheit über die sieben Banner ist nicht erblich und wird von Fall zu Fall von der chinesischen Regierung verliehen. Die „innere Mongolei“ wurde von den Mandschuren in sechs Divisionen (meng) und im ganzen 49 Banner eingeteilt. Diese verteilen sich auf 24 Stämme (aimak oder chinesisch bu).]{.footnote}
 
 [^0317]: [Heiligengrab und Bauwerk, das einen Ort gegen böse Einflüsse schützen soll s, S. 221, Anm. 2.]{.footnote}
 
@@ -2679,7 +2679,7 @@ bis 1368 währte.]{.footnote}
 
 [^0324]: [„scha mo“, d. h. „Sandmeer“ nennt die chinesische Literatensprache diese Wüsten. Ich selbst habe aber nie einen Chinesen in jenen Gegenden scha mo sagen hören, nur „han hai“, manchmal auch „gan hai“, das trockene Meer. Das war der bei den gewöhnlichen Chinesen gebräuchliche Kollektivname dafür.]{.footnote}
 
-[^0325]: [Unter den Man tse und den Mongolen findet man zwei Arten zweirädriger Lastwagen verwendet, die mit Ochsen bespannt werden; und zwar in Hsiao kiao pan und überhaupt im Westen, wohl unter dem Einfluß der Sandmassen und Barchandünen, sehr breitspurige Karren mit hohen, bis 2 m Durchmesser messenden Speichenrädern, die sehr altertümlich aussehen und deren Radkranz eine Breite von mehreren Zoll besitzt, während sonst die Chinesenwagen gerade durch die Schmalheit ihrer wie Messer einschneidenden Räder auffallen. Im Gebiet der Tschunggar an der Grenze von Schan si sah ich die Man tse einen zweiten Typus verwenden, kleine, niedere zweirädrige Karren mit aus Brettern verfertigten Vollrädern, die fest an den Wagenachsen sitzen, so daß sich die Achse wie beim ältesten Skythenkarren mit den Rädern daran am Wagenboden bzw. an den beiden gleichzeitig den Wagenboden und die Gabeldeichsel bildenden Längsstangen und zwischen zweimal zwei an der Unterseite des Wagenbodens befindlichen Zapfen dreht. Die Bespannung ist in beiden Fällen wie die am chinesischen Pflug: sie besteht nur in einem kleinen krummen Holz, das vor dem Widerrist aufliegt und dort durch einen kleinen Strick, der um den Hals läuft, festgehalten wird.<br /> Man findet immer nur kleine Varianten der ursprünglichsten Erfindungen. Ein Hauptcharakterzug des chinesischen Volkes ist noch immer das starre Beharren bei dem allereinfachsten Stand der Technik. Der Grund liegt wohl weniger darin, daß es dem Chinesen an Ideen fehlte, als vielmehr darin, daß seine Bedürfnislosigkeit keine Verbesserung der Erfindungen zuläßt. Das große Kulturvolk, das Jahrhunderte vor Beginn unserer Zeitrechnung schon die allerfeinfühligsten Gedichte gemacht hat, hat es von sich aus nicht zur Verwendung der Schraube, dieses Grundelements der Mechanik, gebracht. So sah ich die Chinesen des Innern an ihren eigenen Instrumenten nirgends die Schraube verwenden. An den Gabelflinten der Tibeter des Kuku nor fand ich wieder die erste Schraube (um die Gabel vom Lauf abnehmbar zu machen). Das nach links und nicht wie bei uns nach rechts sich drehende Gewinde weist aber deutlich auf den indischen Ursprung der tibetischen Schrauben hin.<br /> Weite Teile von China fand ich noch ohne Glas. Millionenzur Zeit meiner Reise noch kein Glas zu Gesicht bekommen, abgesehen von den Pekinger Schnupftabakfläschchen. Auch die Magnetnadel ist in Westchina noch heute als ein Instrument der Geomantik, zur Bestimmung des Föng schui und anderer mehr oder minder sinnloser Phantastereien im Gebrauch. (Daß die Chinesen das Glas nicht selbst erfunden haben, beweist schon die zweisilbige Bezeichnung „po li“, die höchst wahrscheinlich indischen Ursprungs ist. Die Chinesen kennen das Glas etwa seit Beginn der christlichen Zeitrechnung und erfuhren das Geheimnis seiner Herstellung etwa um das 5. Jahrhundert. Die Fabrikation hat sich aber bis in die neueste Zeit auf ganz bestimmte Orte beschränkt und es wurden nur dicke Flaschen und Schalen in verschiedenen Farben gegossen.dann geschliffen. Beinahe der einzige Platz, wo Glas bis heute hergestellt wird ist Po schan hsien in der Provinz Schan tung. Alles sogenannte „Pekinger Gla stammt von Po schan.)]{.footnote}
+[^0325]: [Unter den Man tse und den Mongolen findet man zwei Arten zweirädriger Lastwagen verwendet, die mit Ochsen bespannt werden; und zwar in Hsiao kiao pan und überhaupt im Westen, wohl unter dem Einfluß der Sandmassen und Barchandünen, sehr breitspurige Karren mit hohen, bis 2 m Durchmesser messenden Speichenrädern, die sehr altertümlich aussehen und deren Radkranz eine Breite von mehreren Zoll besitzt, während sonst die Chinesenwagen gerade durch die Schmalheit ihrer wie Messer einschneidenden Räder auffallen. Im Gebiet der Tschunggar an der Grenze von Schan si sah ich die Man tse einen zweiten Typus verwenden, kleine, niedere zweirädrige Karren mit aus Brettern verfertigten Vollrädern, die fest an den Wagenachsen sitzen, so daß sich die Achse wie beim ältesten Skythenkarren mit den Rädern daran am Wagenboden bzw. an den beiden gleichzeitig den Wagenboden und die Gabeldeichsel bildenden Längsstangen und zwischen zweimal zwei an der Unterseite des Wagenbodens befindlichen Zapfen dreht. Die Bespannung ist in beiden Fällen wie die am chinesischen Pflug: sie besteht nur in einem kleinen krummen Holz, das vor dem Widerrist aufliegt und dort durch einen kleinen Strick, der um den Hals läuft, festgehalten wird.<br /> Man findet immer nur kleine Varianten der ursprünglichsten Erfindungen. Ein Hauptcharakterzug des chinesischen Volkes ist noch immer das starre Beharren bei dem allereinfachsten Stand der Technik. Der Grund liegt wohl weniger darin, daß es dem Chinesen an Ideen fehlte, als vielmehr darin, daß seine Bedürfnislosigkeit keine Verbesserung der Erfindungen zuläßt. Das große Kulturvolk, das Jahrhunderte vor Beginn unserer Zeitrechnung schon die allerfeinfühligsten Gedichte gemacht hat, hat es von sich aus nicht zur Verwendung der Schraube, dieses Grundelements der Mechanik, gebracht. So sah ich die Chinesen des Innern an ihren eigenen Instrumenten nirgends die Schraube verwenden. An den Gabelflinten der Tibeter des Kuku nor fand ich wieder die erste Schraube (um die Gabel vom Lauf abnehmbar zu machen). Das nach links und nicht wie bei uns nach rechts sich drehende Gewinde weist aber deutlich auf den indischen Ursprung der tibetischen Schrauben hin.<br /> Weite Teile von China fand ich noch ohne Glas. Millionen zur Zeit meiner Reise noch kein Glas zu Gesicht bekommen, abgesehen von den Pekinger Schnupftabakfläschchen. Auch die Magnetnadel ist in Westchina noch heute als ein Instrument der Geomantik, zur Bestimmung des Föng schui und anderer mehr oder minder sinnloser Phantastereien im Gebrauch. (Daß die Chinesen das Glas nicht selbst erfunden haben, beweist schon die zweisilbige Bezeichnung „po li“, die höchst wahrscheinlich indischen Ursprungs ist. Die Chinesen kennen das Glas etwa seit Beginn der christlichen Zeitrechnung und erfuhren das Geheimnis seiner Herstellung etwa um das 5. Jahrhundert. Die Fabrikation hat sich aber bis in die neueste Zeit auf ganz bestimmte Orte beschränkt und es wurden nur dicke Flaschen und Schalen in verschiedenen Farben gegossen.dann geschliffen. Beinahe der einzige Platz, wo Glas bis heute hergestellt wird ist Po schan hsien in der Provinz Schan tung. Alles sogenannte „Pekinger Gla stammt von Po schan.)]{.footnote}
 
 [^0326]: [In der Steppe nördlich Ning tiao leang liegt auch die Missionsstation Boro balgasun, d. i. „graue Ruinenstadt“. Sie liegt in den Mauern einer der vielen (angeblich 33) zerstörten Städte, die sich am Rande des Ordos-Landes außerhalb der „großen Mauer“ befinden. Wahrscheinlich gehörte die Stadt zum Hsi Hsia-Reich und wurde von Dschinggis zerstört. Während der Han-Dynastie und auch in der Zeit, als die Hunnen (chinesisch Hsiung nu) hier saßen, muß diese Gegend blühend und dicht besiedelt gewesen sein. Sie kam offenbar erst in der Mongolenzeit auf den kläglichen Zustand herunter, in dem sie sich heute befindet.<br />Es finden sich hier so viele große Orte und Städte vom Wüstensand verschüttet und es zeigt sich hier so deutlich ein allgemeines durch die Frühlingsstürme verursachtes Fortschreiten der Dünen nach SO, daß ich geneigt bin, nicht bloß der Eroberung durch die Mongolen die Schuld an der schwachen Besiedlung und an der Verödung der Städte zu geben, sondern eine Verschlechterung, ein Trockenerwerden des Klimas seit der Zeit vor dem Auftreten der Mongolen anzunehmen.
 ]{.footnote}

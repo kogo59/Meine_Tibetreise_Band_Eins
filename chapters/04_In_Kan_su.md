@@ -1,7 +1,7 @@
 # IV.<br />In Kan su und an der Grenze Tibets. {#vier .unnumbered }
 
 ::: justified
-Die Hauptstadt der Provinz Kan su ist Lan tschou fu. Und wenn mir ein Kan
+**D**ie Hauptstadt der Provinz Kan su ist Lan tschou fu. Und wenn mir ein Kan
 su-Mann von seinem Lan tschou fu erzählte und sich ausgeredet hatte, was Mehl
 und Brot, was Tabak und Schnaps dort kosten, so wußte er auch gleich zu
 berichten, daß es dort ein Weltwunder gebe, nämlich die Schiffbrücke über den
@@ -49,7 +49,7 @@ nötig war, an die 1000 Mark unseres Geldes. Für die Beamten aber, die in Lan
 tschou Vater und Mutterstelle am Volke vertraten, muß immerhin von den
 10&nbsp;000 Tael noch ein hübsches Taschengeld abgefallen sein^[^0401]^.
 
-Lan tschou fu _ ist also Brückenkopf, ist eine Feste, die einen bequemen Hoang
+Lan tschou fu ist also Brückenkopf, ist eine Feste, die einen bequemen Hoang
 ho-Übergang verteidigt. Seit Urzeiten ist der Punkt für wichtig angesehen worden
 und militärisch besetzt gewesen; wir finden hier schon lange vor Beginn unserer
 Zeitrechnung, während der Ts‘in- und Han-Dynastie, ein befestigtes Lager
@@ -143,7 +143,7 @@ Alluvialebene, durch die der Hoang ho zumeist auch breit dahinfließt. Südlich
 und westlich der Stadt steigen ganz nahe den Umfassungsmauern von Löß überzogene
 rote Tonberge auf, die in den Mohammedanerkriegen des 19. Jahrhunderts befestigt
 wurden. Von dem nördlichsten, gegen den Fluß hin äußersten Punkte dieser Berge
-ist die Ansicht der Stadt aufgenommen, die auf [Tafel XLIII](ch007.xhtml#192b) deren Lage
+ist die Ansicht der Stadt aufgenommen, die auf [Tafel XLIII](ch007.xhtml#b192b) deren Lage
 wiedergibt.
 
 Die Stadt Lan tschou fu bedeckt kein großes Areal (s. meine kartogr. Ergebnisse
@@ -668,7 +668,7 @@ sind weite Flächen innerhalb der Umwallung verödet. Alles Leben ist außerhalb
 Umgeben von einer heute niedergelegten Mauer befinden sich dort dicht bebaute
 Straßen mit meist zweistockigen Häusern, wie in Didao. Ich schätze Ho
 tschou-Stadt und -Vorstadt auf nur 30&nbsp;000 Einwohner und hiervon sind über
-zwei Drittel Mohammedaner[^0418]. Keine einzige Stadt innerhalb der 18 Provinzen des
+zwei Drittel Mohammedaner^[^0418]^. Keine einzige Stadt innerhalb der 18 Provinzen des
 chinesischen Reichs hat ein gleich stark mohammedanisches Gepräge. Und doch ist
 hier noch manches so ganz anders als in echt mohammedanischen Ländern. Nie sah
 ich einen Hui hui in Ho tschou und Umgebung, der seinen Gebetsteppich im Freien
@@ -676,8 +676,8 @@ oder in einer Hofecke ausbreitete und betete, wenn die Muezzin^[^0419]^ riefen. 
 die Ho tschou-Mohammedaner sind wie die anderen noch mehr chinesifizierten sehr
 äußerliche Gläubige, die kaum die vorgeschriebenen Waschungen fehlerlos
 ausführen können. Selten macht einer die Pilgerfahrt nach Mekka. Selbst den
-Namen der Stadt Mekka kennen die wenigsten. Sie wissen meist nur von „Kerbe“[^0420]
-und dies sei ein O r t im LumiReiche[^0421]. In diesem herrsche vollendete
+Namen der Stadt Mekka kennen die wenigsten. Sie wissen meist nur von „Kerbe“^[^0420]^
+und dies sei ein O r t im LumiReiche^[^0421]^. In diesem herrsche vollendete
 Glückseligkeit schon auf Erden, und von dort aus könne man ohne Mühe gen Himmel
 fahren. Im Lumi-Reiche regiere ein großer Kaiser als Kaiser aller Mohammedaner,
 Raub und Mord kommen dort nie vor, und wie der Kaiser und seine Untertanen, so
@@ -993,7 +993,7 @@ leider darauf verzichten, durch jenes Gebiet zu reisen, und mußte auf der groß
 Hauptstraße bleiben. Für sehr sicher galt allerdings auch diese nicht. Durch ein
 ödes, einsames Tal ging es stundenlang aufwärts, Die roten Ton- und
 Geröllschichten erreichen hier viele hundert Meter Mächtigkeit; sie sind absolut
-steril und durch die Sommerregen in zahllose Risse und Runsen zerschnitten. .
+steril und durch die Sommerregen in zahllose Risse und Runsen zerschnitten.
 
 Am Abend des 21. Dezember war ich in Ba yan rong ting^[^0428]^. Diese Stadt ist in
 einem breiten Hochtale gelegen, und von dort bis Ts‘a ba, das ich am Tage darauf
@@ -1203,7 +1203,7 @@ Dabei gab es so vieles nicht, was ich haben wollte. Große Mühe machte es zum
 Beispiel, in der großen Stadt drei Hölzer zu finden, die sich für mein Zelt als
 Stangen verwenden ließen. Die Umgegend ist äußerst holzarm. Als wir uns tagelang
 vergeblich bemüht hatten, ein zur Firststange geeignetes Stück zu finden,
-schenkte mir der Sohn des Generals, was ich brauchte, aus dem Arsenal,
+schenkte mir der Sohn des Generals, was ich brauchte, aus dem Arsenal.
 
 Wer in China reisen will, der tue vor allem Geduld in seinen Beutel. Nie darf
 ein Chinese merken, daß man etwas rasch haben möchte. Auch in Hsi ning fu wird
@@ -1386,7 +1386,7 @@ Lhasa-Regierung ohne das verJangte Blutgeld auf 26&nbsp;700 Tael (nach dem
 damaligen Silberkurs 70&nbsp;000 Mark) angegeben und von den Lhasa-Tibetern bei
 der chinesischen Regierung eingeklagt worden^[^0441]^. Und deshalb hatte der Ting von
 Dankar nach Denang zu den ngGolokh reisen müssen; dieser Stamm hatte den
-Überfall gemacht,
+Überfall gemacht.
 
 Der Ting berichtete mir von seinen Abenteuern im Grasland. Immer wiederholte er,
 wie froh er gewesen sei, als er lebendig herausgekommen war. Ein schauerliches
@@ -1471,7 +1471,7 @@ Berechtigung, Tibeter oder Mongolen beherbergen zu dürfen, von der chinesischen
 Behörde zu erkaufen. Es sind wohlhabende Leute, die neben einem geräumigen Haus
 noch große Stallungen und Viehhöfe besitzen, mit Platz genug, um heute einen
 Tibeter beherbergen zu können, der mit 300 Yak ankommt, morgen einen Mongolen
-mit fast ebenso vielen Kamelen,
+mit fast ebenso vielen Kamelen.
 
 Die Einrichtung der Hsie dia ist schon uralt. Wir erfahren davon auch von Huc
 und Gabet, den beiden französischen Lazaristen, die als mongolische Lamas
@@ -1654,7 +1654,7 @@ Tschang ga gun, östlich von Hsün hoa.]{.footnote}
 
 [^0433]: [Die chinesische Provinzialarmee bestand nur aus den grünen Bannern, den Lü ying. Von den größeren Verbänden, den Tschen piao (Brigaden), den Hsie (= Regimentern) hörte man im Frieden selten, da die chinesische Provinzialarmee (ich spreche nicht von den Truppen an der Küste) als Polizeitruppe verwendet wurde und zerstreut garnisonierte. Die erste wichtige militärische Einheit ist erst das Ying-Lager oder Bataillon, das unter einem Major (yu tschi) oder einem Hauptmann (du se oder schube) steht.<br />In Hsi ning fu lag ein „mittleres“, „linkes“, „rechtes‘, „vorderes“ und „hinteres ying“, das je unter einem du se, meist unter schu be stand. Die Bewaffnung war sehr schlecht. Die Truppen exerzierten so gut wie nie. Die Soldaten bekamen jeden Monat reichlich Weizen zugemessen und dazu 4 Mark Gehalt. Weitaus die meisten waren verheiratet.<br />Außerhalb der Stadt war ein dem General direkt unterstelltes befestigtes Lager von sogenannten „bu tui“ (angeblich modern gedrillten Infanteristen), die besser uniformiert und mit Vorderladern bewaffnet waren. Solange ich in Hsi ning fu war, gaben die Offiziere, teils aus Sparsamkeitsgründen‚ teils der Sicherheit halber keine moderneren Gewehre aus den Arsenalen, denn sehr oft desertierten die Soldaten mitsamt ihren Gewehren und verkauften diese an die geheimen Gesellschaften oder an die Mohammedaner.]{.footnote}
 
-[^0434]: [Der offizielle Titel dieses Beamten lautete: tsung li tsch‘_ing hai scho wu da tsch‘en = Minister und Militärbevollmächtigter des gesamten Kuku nor-Bezirkes. Er war stets ein Mandschure und hatte eine dem Vizekönig von Lan tschou beigeordnete  Stellung. Von den Tibetern und Mongolen wird er immer „amban" bzw. Seling amban, d. h. Hsi ning-Minister betitelt. Das Amt wurde 1723 für die Mongolenbanner eingerichtet, Die Tibeter nennen Hsi ning Seling oder Siling mkar.]{.footnote}
+[^0434]: [Der offizielle Titel dieses Beamten lautete: tsung li tsch‘ing hai scho wu da tsch‘en = Minister und Militärbevollmächtigter des gesamten Kuku nor-Bezirkes. Er war stets ein Mandschure und hatte eine dem Vizekönig von Lan tschou beigeordnete  Stellung. Von den Tibetern und Mongolen wird er immer „amban" bzw. Seling amban, d. h. Hsi ning-Minister betitelt. Das Amt wurde 1723 für die Mongolenbanner eingerichtet, Die Tibeter nennen Hsi ning Seling oder Siling mkar.]{.footnote}
 
 [^0435]: [Die südliche Straße führt nach dem Kloster Gum bum und der Stadt Kue de ting; die nördliche nach Dai tung und weiter nach Kan tschou fu und dem alten Yü men, dem Tor gegen Turkistan.]{.footnote}
 

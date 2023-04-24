@@ -359,7 +359,7 @@ Ausmaßen des Haupttales, In der Mitte fanden wir nicht einmal die Spur eines
 Baches. Darum wird diese Gegend dem Grasreichtum zum Trotz nur vorübergehend von
 den Nomaden aufgesucht, denn auch die Tibeterinnen wollen ihr Wasser, gleich
 unseren Hausfrauen, dicht vor dem Zelte haben, so spärlichen Gebrauch sie auch
-davon machen,
+davon machen.
 
 Weiter gegen Westen liegt in der Achse dieses Tales der Wayen oder Bayan nor,
 ein mehrere Quadratkilometer großer Süßwassersee, der keinen sichtbaren Abfluß
@@ -411,7 +411,7 @@ gewesen, die der Gelug baSekte und dem Dalai Lama zu der heutigen großen
 Bedeutung verholfen haben. Von den einst so mächtigen Gönnern haben sich aber
 auch hier heute nur klägliche Reste erhalten; nur viele Orts- und Bergnamen sind
 aus der Mongolenzeit übrig geblieben und sind ins Tibetische herübergenommen
-worden., Hier haben die Mongolen einst als Herren geschaltet etwa wie die
+worden. Hier haben die Mongolen einst als Herren geschaltet etwa wie die
 Deutschordensritter in Kurland und Estland; die Tibeter sind mehrere
 Jahrhunderte lang im Hörigenverhältnis zu ihnen gestanden. Die Mongolen waren
 hier die Kulturträger. Unter ihnen herrschte eine bessere Ordnung. Sie wohnten
@@ -433,7 +433,7 @@ keinen Grund, die nutzlose Gesellschaft länger zu halten. Sie erhielten ihren
 Gehalt von mir, machten ihren Ko tou und waren bald lustig singend in der
 entgegengesetzten Richtung meinen Blicken entschwunden. Mit ihnen ging ein
 letzter Brief an meine Eltern, der pünktlich drei Monate später an seinem
-Bestimmungsort ankam,
+Bestimmungsort ankam.
 
 Südlich des Bayan nor und des schon mehrfach genannten Süd-Kuku norGebirges
 dehnt sich eine riesige Steppe aus, die „Tala“. Diese zu queren war mein
@@ -703,9 +703,9 @@ Der Wassergott des Si ni ts‘o, ein — wie ich mir versichern ließ — ganz
 besonders heiliger und gewaltiger Herr, wurde von den Priestern mit vereinten
 Kräften beschworen, sich dem Stamme gnädig zu erweisen, Krankheiten fern zu
 halten und das Vieh fett und fruchtbar zu machen. Unter Trommelschlag und
-Glockenklang surrten hierzu die Litaneien von den Lippen der. Lama.
+Glockenklang surrten hierzu die Litaneien von den Lippen der Lama.
 
-&nbsp;2.Mai. Wir bleiben noch einen weiteren Tag im Lager am Sini ts‘o; die
+&nbsp;2. Mai. Wir bleiben noch einen weiteren Tag im Lager am Sini ts‘o; die
 Tiere sollen sich so viel wie möglich erholen. Den Yak sind zum erstenmal seit
 Schara khoto die Sättel abgenommen worden. Sie finden auf den Hängen am See noch
 viel Gras und wühlen grunzend im Sande.
@@ -733,7 +733,7 @@ die dünnen Baumwollstoffwände jedes Wort hören konnte.
 
 „Wir sind von den Zelten hier, aber wer seid ihr?“
 
-„Wir sind Dia ner ‚(Chinesen), die nach K‘am und Dergi (in Mitteltibet) gehen.
+„Wir sind Dia ner (Chinesen), die nach K‘am und Dergi (in Mitteltibet) gehen.
 Ihr seht die vielen Repetiergewehre. Wir sind Soldaten der Regierung und haben
 einen Munitionstransport für unsere Garnison in K‘am. Es ist Krieg dort
 ausgebrochen und unsere Regierung hilft, dem König von Nan tsien gegen die Leute
@@ -764,7 +764,7 @@ und her ziehen und den letzten Halm aufgezehrt haben.“
 
 „Wir haben einen Lao ye (Offizier),“ erwiderte Tschang, „der ist aber ein
 ekelhafter Opiumraucher. Er ißt von morgens bis abends Opium und darum könnt ihr
-ihn nicht sprechen. Ich bin sein Dolmetscher., Wenn ihr etwas Besonderes wollt,
+ihn nicht sprechen. Ich bin sein Dolmetscher. Wenn ihr etwas Besonderes wollt,
 so sagt es mir. Ich werde euch billig bedienen.“
 
 Die Leute forschten noch nach verschiedenen Dolmetschern des Amban- ya men und
@@ -861,7 +861,7 @@ ohne mich erst zu fragen, den Wasservorrat bis auf wenige Schluck aufbrauchten.
 
 Nach einer unruhigen Nacht — wir wurden dreimal durch ein Rudel Wölfe belästigt,
 die uns so menschenähnlich anheulten, daß wir jedesmal an einen Räuberangriff
-dachten — war die Karawane am Morgen des 4, Mai schon kurz nach fünf Uhr
+dachten — war die Karawane am Morgen des 4. Mai schon kurz nach fünf Uhr
 weitergezogen. Ich ließ diesmal die Morgenkälte ausnützen. Um fünf Uhr zeigte
 das Thermometer —7,5°C. Wir marschierten ohne Unterbrechung bis halb ein Uhr
 mittags, dann las ich +14,2° C. am Aßmann ab und bei den Tieren, die alle noch
@@ -1162,7 +1162,7 @@ bloß wie Diebe zu uns heranzukommen; wenn sie einen von uns Menschen zu Gesicht
 bekamen, stoben sie alsbald scheu auseinander und rannten auf und davon. Es war
 mir dabei nicht möglich, zum Schuß zu kommen.
 
-In dieser Nacht ging das Thermometer bis — 6° zurück. Die größte Abkühlung trat
+In dieser Nacht ging das Thermometer bis —6° zurück. Die größte Abkühlung trat
 wie gewöhnlich kurz vor Sonnenaufgang ein. Um sechs Uhr in der Frühe stand die
 Karawane beladen und reisefertig da. Rasch querten wir das Längstal vollends und
 stiegen ohne Weg zuerst einer Schlucht folgend an der Hauptkette des
@@ -1321,7 +1321,7 @@ geleiten. Fast jeder Stamm hat solch einen Händler, der alle Jahre wieder mit
 einem neuen Warenstapel erscheint, ein halbes oder dreiviertel Jahr im Lager
 bleibt und Wolle und Häute, Moschus und Hirschgeweihe gegen seinen Tee und gegen
 andere Luxusbedürfnisse der Nomaden eintauscht und immer nur für kurze Zeit nach
-dem chinesischen Tiefland zurückkehrt. Sehr oft sindsolche Händler, auch wenn
+dem chinesischen Tiefland zurückkehrt. Sehr oft sind solche Händler, auch wenn
 sie Mohammedaner sind, mit Tibeterinnen verheiratet.
 
 An Stelle des abwesenden Häuptlings machten dessen Frau und Schwager meinen
@@ -1508,7 +1508,7 @@ und Stelle nach dem mohammedanischen Ritus und verspeiste ihn innerhalb zweier
 Tage. Doch war das Fleisch wenig schmackhaft.
 
 Es herrschte im Saröng-Tal eine eisige Grabesstille, als wären wir auf dem Mond
-und nicht mehr auf unserer Erde. - Die Stimmung der Mannschaft war sehr gedrückt
+und nicht mehr auf unserer Erde. Die Stimmung der Mannschaft war sehr gedrückt
 und keiner trällerte mehr ein Liedchen vor sich hin.
 
 Sung sagt, er fühle sich besser. Er will noch immer keine europäische Arznei
@@ -1525,7 +1525,7 @@ vorwärts marschierte, nicht mehr im Sattel halten konnte.
 Beim Ga fo ying pan spielten auf der Felsterrasse rings um das Lager viele
 Dutzend Murmeltiere. Nie hörte ich hier ihr munteres Wit! Wit! Hier lag alles im
 Winterschlaf, Nirgends wollte sich Leben zeigen. Nur einmal flog ein gelbes
-Entenpaar glucksend durchs Tal. Es waren Reisende wie wir. Am 16, Mai entdeckte
+Entenpaar glucksend durchs Tal. Es waren Reisende wie wir. Am 16. Mai entdeckte
 ich kurz vor Einbruch der Dämmerung am jenseitigen Hang in 1 km Entfernung einen
 Bären, den ersten auf dieser Reise. Er wälzte schwere Erdschollen, drehte Steine
 um und grub mit seinen eisenharten Krallen nach Mäusen, die noch ihren
@@ -1752,7 +1752,7 @@ in eine Muschel, verspritzt Wasser und alle werfen sich vor der aufgehenden
 Sonne nieder. Zedernzweigchen, die vom Ga fo ying pan herbeigeschleppt worden
 waren, werden verbrannt und noch einige Reiskörner und Stückchen Tsamba-Teig Am
 1. und 15. jeden Monats gibt es diesen Gottesdienst. Von meinem Zelte aus sieht
-sich dieser Kult allemal ganz altbiblisch an
+sich dieser Kult allemal ganz altbiblisch an.
 
 Längst ging die Reise in dem Tale des Tschürnöng tschü. Im Gebiet der Sidia-Fan
 tse ist dieses Tal viele Kilometer breit und bietet bis über den Hoang ho
@@ -1760,7 +1760,7 @@ hinüber, bis in 50 und mehr Kilometer Entfernung, das Bild einer Fastebene mit
 niederen rundlichen Hügelreihen. Den Fluß Tschürnong tschü selber bekamen wir
 jedoch zum ersten Male am 24. Mai zu Gesicht. Betrofen standen wir vor einem
 über 200 m tiefen Riß, in dem tief unten der Fluß mit wild und hoch
-aufschäumenden Wogen dahinstürmte ([Tafel LXVI](b288a)). Nirgends in unseren Alpen finden
+aufschäumenden Wogen dahinstürmte ([Tafel LXVI](#b288a)). Nirgends in unseren Alpen finden
 sich ähnliche Kontraste. Hier eine unabsehbare Felsterrasse, mit niederem
 Graswuchs bestanden und deutlich als der Boden uralter Gletschermassen
 erkennbar, mittendurch aber die steil und tief eingeschnittene Klamm, die Wände
@@ -1864,7 +1864,7 @@ vergeblich, den Hahn meiner Pistolen zu spannen.
 Am Morgen des 27. Mai klagte auch Da Tschang über Mattigkeit und über
 Kopfschmerzen. Vier Mann lagen jetzt im Mannschaftszelt in Delirien. Ihre
 Schreie klangen markerschütternd. Die Gesunden kampierten darum in einer
-Entfernung von 50 m von den Kranken., Sie waren vorsichtig geworden und hatten
+Entfernung von 50 m von den Kranken. Sie waren vorsichtig geworden und hatten
 dort alle Waffen zusammengetragen. Es waren am Ende nur noch die Mohammedaner,
 die sich aufrecht hielten. Ich versuchte durch Waschungen und durch Fiebermittel
 meine innere Hitze zu bekämpfen. In meinem Kopf aber hämmerte es weiter und die
@@ -1973,7 +1973,7 @@ und Handelswaren trug.
 Unser Lager 30 war in 3900 m Höhe, gehörte aber immer noch in den Strom- bereich
 des Tschürnöng tschü. Die Talformen waren breit und gerundet geworden. Man
 konnte wiederum von kleinen Talebenen sprechen. Hand in Hand mit der
-Erbreiterung hatte sich die Flora und Fauna verändert., Nur mehr eine niedere,
+Erbreiterung hatte sich die Flora und Fauna verändert. Nur mehr eine niedere,
 kaum 5 cm hohe Grasnarbe deckte die Erde, und bei dem letzten meterhohen Busch
 war auch der Kuckuck zurückgeblieben. Dafür galoppierten in dem offenen Gelände
 Kyangrudel‚ die in den Schluchten unten nie zu sehen waren, und Spuren von
@@ -2071,7 +2071,7 @@ braunen, tonigen Erde aufgelöst, die alles Wasser festhielt. Bei 2° und 3°
 Böschungswinkel war es Grasarten, ja schließlich selbst Moospolstern zu naß; die
 nackte Erde, d. h. nackter Schlamm, deckte allenthalben die Ebene. Lager 33
 schlug ich endlich auf einem kleinen Sattel auf, dem ersten trockenen Platze,
-den ich fand. Es lag 4315 m hoch ([Tafel LXX](b304b)). Ein dichtes Gebüsch aus
+den ich fand. Es lag 4315 m hoch ([Tafel LXX](#b304b)). Ein dichtes Gebüsch aus
 Bergweiden von fast 1 m Höhe dehnte sich daneben aus. Die Weidenkätzehen hatten
 sich eben erst entwickelt. Gelbe und blaue Iris lugten auf kurzen Stengeln aus
 dem Boden. Wir blieben zwei Tage in dem Lager, zwei trübe, graue Regentage, Die

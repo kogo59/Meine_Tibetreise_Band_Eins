@@ -217,7 +217,7 @@ Die Tu ren-Männer kleiden sich meist wie Chinesen, manche haben aber auch
 halblange kaftanartige, wollene Röcke wie Tibeter an und sie wickeln sich wie
 die ärmere Bevölkerung Nordchinas die Waden bis zum Knie herauf mit grauen oder
 blauen Binden ein. Sehr schwierig, ja unmöglich ist es, aus dem Gesichtsschnitt
-und der Körperbildung einen Tu ren von einem Chinesen zu unterscheiden ([Tafel LIV](ch007.xhtml#b240b)). 
+und der Körperbildung einen Tu ren von einem Chinesen zu unterscheiden ([Tafel LIV](ch008.xhtml#b240b)). 
 Sie sind vielleicht im Durchschnitt kleiner und haben breitere Gesichter als die
 Chinesen. Aber wie man unter uns Europäern nur aus gewissen Äußerlichkeiten und
 nach der Sprache mit Bestimmtheit einen Vertreter dieser oder jener Nationalität
@@ -363,7 +363,7 @@ befriedigt. Den Oberkörper bedeckt noch eine blaue Baumwolljacke mit weiten
 Ärmeln, die quer der Breite nach aus grünen, roten und blauen Tuchstreifen
 zusammengenäht sind, und auf denen schwarze, gelbe usw. Streifen und Bänder
 aufgesetzt sind, Die Füße stecken in über und über buntbenähten Tuchstiefeln,
-deren Schäfte ‘bis an die Waden reichen, und auf dem Kopfe sitzt noch ein
+deren Schäfte bis an die Waden reichen, und auf dem Kopfe sitzt noch ein
 Modebauwerk von den allergroteskesten Formen und Ausmaßen. Je nach dem Stamm und
 dem Tal um Wei yüan bu sind es mehr oder minder große Hauben mit riesigen
 orangeroten Quasten daran, mit einem Mittelstück wie ein Sattel, von dem nach
@@ -600,19 +600,19 @@ einer der äußersten Posten der Chinesenkolonisation, Sitz eines Landratsamtes 
 1762 wurde hier erst das Hsien errichtet — und hat eine sehr große Garnison.
 Neben den chinesischen Soldaten und Beamten liegt hier noch ein tibetischer
 Fürst mit einer Miliztruppe, und nicht unfern vor den Mauern weiden Mongolen
-ihre Herden,
+ihre Herden.
 
 Die Stadt wird vom Volk meist Mo bai tschen genannt, was auf den alten Marktort
 hinweist, der hier den Nomaden zugestanden war. Sie ist klein, da nur Chinesen
 in ihr wohnen dürfen. In ihrem Westen schließt sich aber ein hübscher und
 verkehrsreicher Vorort an, wo viele Mohammedaner Geschäfte betreiben. Die Stadt
-hat im Jahre 1895 böse Zeiten durchgemacht. Die Moham- medaner suchten sich mit
+hat im Jahre 1895 böse Zeiten durchgemacht. Die Mohammedaner suchten sich mit
 allen Mitteln, durch Unterminierung der elenden Mauern und durch Sturmläufe in
 ihren Besitz zu setzen. Es ist erstaunlich, daß sie sich trotzdem vier Monate
 lang halten konnte.
 
 :::: { .wrap-100 }
-![Abb. 15. Schematischer Querschnitt durch das Tal von Da tung hsien. <small>Q= Loczy’s Que tä-Tone und -Sande = Hung tu-Formation.</small>](Meine_Tibetreise_I_255.jpg "Abb. 15. Schematischer Querschnitt durch das Tal von Da tung hsien."){#b255}
+![Abb. 15. Schematischer Querschnitt durch das Tal von Da tung hsien. <small>Q = Loczy’s Que tä-Tone und -Sande = Hung tu-Formation.</small>](Meine_Tibetreise_I_255.jpg "Abb. 15. Schematischer Querschnitt durch das Tal von Da tung hsien."){#b255}
 ::::
 
 Der folgende Tag brachte mich durch ein unbewohntes hohes Bergland und durch
@@ -639,8 +639,8 @@ Ich hielt mich einen Tag in dem Orte auf und kaufte Maultiere und Pferde für
 meinen baldigen neuen Aufbruch. Ich wurde von einer Reihe von Leuten geradezu
 bestürmt, sie als Diener mitzunehmen. Da tüchtige Männer darunter waren, die die
 Steppe kannten, die Chinesisch, Tibetisch und Mongolisch sprachen, so nahm ich
-hier mehrere in meinen Dienst. Als der Kontrakt von beiden Par-teien und von
-Bürgen unterzeichnet war, erbaten die Leute den üblichen Vor-schuß. 
+hier mehrere in meinen Dienst. Als der Kontrakt von beiden Parteien und von
+Bürgen unterzeichnet war, erbaten die Leute den üblichen Vorschuß. 
 
 „Wir wollen für die Reise in die kalte Steppe sogleich unsere warmen Kleider und
 Filzmäntel holen. Die sind im Leihhaus in der Stadt Mo bai tschen,“ sagten sie.

@@ -147,7 +147,7 @@ In meinem Zelte sitzend, erlauschte ich in dieser ersten Nacht durch die dünne
 Kanevaswand eine lange Beratung meiner Diener, welche mir die Stimmung solcher
 tibetischer Reisenächte vollenden half.
 
-So freundlich mich die Mönche von Gomba soma _ bewirtet, sie hatten es nicht
+So freundlich mich die Mönche von Gomba soma bewirtet, sie hatten es nicht
 unterlassen können, meine chinesischen Begleiter in große Unruhe und Sorge zu
 versetzen. Sie hatten ihnen erklärt und, wie es scheint, um ihren Worten mehr
 Nachdruck zu verleihen, auch, durch ein rasch befragtes Orakel noch fester
@@ -277,7 +277,7 @@ Macht der Mongolen und erweckten bei den Leitern der tibetischen
 Gelugba-Mönchsekte den Wunsch, Yen ta (Altan Gegen Khan) für ihre besonderen
 Gelugba-Dogmen zu gewinnen. 1575 reiste der damalige Großabt der Gelugba-Sekte,
 bSodnams rgyamts‘o, der erste, der den Titel Dalai Lama erhielt, an das Hoflager
-des Yen ta nach Kuku khoto und bekehrte ihn mit allen seinen Untertanen., Ja,
+des Yen ta nach Kuku khoto und bekehrte ihn mit allen seinen Untertanen. Ja,
 als bSodnams 1586 starb, hielten es die Gelugba für das beste, die Wiedergeburt
 ihres Großabtes 1588 in dem neugeborenen Enkel des Yenta zu sehen, der mit
 seinem kirchlichen Namen als Yontän rgyamts‘o oder Yontän Dalai Lama bekannt
@@ -316,7 +316,7 @@ Torol Batur Guschri Khan^[^0505]^, ein Khoschot (eine Unterabteilung des
 westmongolischen Volks der Oirod [Ölöt], die seit alter Zeit am Altai beheimatet
 sind und direkte Nachkommen eines Bruders des Dschinggis Khan sein wollen),
 hatte in jungen Jahren schon die Hui hui geschlagen und hatte sich früh zur
-Gelugba-Sekte bekehrt. 1633 hatte er einen Urenkel des Dayan Großkhan (s. $.
+Gelugba-Sekte bekehrt. 1633 hatte er einen Urenkel des Dayan Großkhan (s. S.
 103, Anm.), einen Khalhkha-Prinzen mit Namen Tschotor Tschogtu (s. Huth,
 Jigsmed...), der mit seinem Volk aus dem Norden an den Blauen See gekommen war
 und die Gelugba mit Hilfe des Fürsten von Schigatse (Punts‘og) zu vernichten und
@@ -440,7 +440,7 @@ erblicher tschün wang = König II. Klasse). Einst mehrere tausend Familien star
 und 8 Schwadronen groß, zählt sie heute nach den eigenen Angaben des Fürsten 350
 Familien oder nach anderen Quellen 150 Familien. Die eine Hälfte derselben wohnt
 am Dulan gol im Westen des Sees, die andere beim Kloster Gomba soma und in der
-Nähe des Klosters Minia ta_bei Kue de ting, da die Inkarnationen der Minia
+Nähe des Klosters Minia ta bei Kue de ting, da die Inkarnationen der Minia
 Buddha von Kue de schon 24mal in der Familie des Fürsten, des Königs vom Kuku
 nor, wiedergeboren wurden. Die Horde ist vermutlich das alte sogenannte
 westliche vordere Banner der Khoschot gewesen, das im „Meng gu yu mu dyi“, der
@@ -790,7 +790,7 @@ und am Ufer entlang zog sich ein breiter und mehrere Meter hoher Packeisgürtel,
 so dick, daß es nicht einmal leise krachte, als meine acht Yak mit ihren
 zentnerschweren Lasten auf dem Rücken darüber marschierten. Wie sonst drängten
 sich die Tiere jetzt auch auf dem See eng zusammen, und dicht hinter ihnen
-folgten noch die berittenen Treiber ([Tafel XL](ch006.xhtml#171d)). Das Eis bog
+folgten noch die berittenen Treiber ([Tafel XL](ch006.xhtml#b171d)). Das Eis bog
 sich nicht, es schien überall einen halben Meter Dicke zu haben. Da einige
 Zentimeter Schnee auf ihm lagen und die Yaks wie auch meine Ponys nicht
 beschlagen waren, so kamen wir, ohne daß auch nur einmal eines der Tiere
@@ -1003,7 +1003,7 @@ Ostufer nur ausnahmsweise. Menschen wohnen keine dort. In dem hellen Mondlicht
 des tibetischen Hochlandes glaubte man bis in die weiteste Ferne jedes feinste
 Detail erkennen zu können; aber nur fahl, farblos, scheinbar zitternd und
 mosaikartig erschien jeder Gegenstand; wir mußten acht geben, daß wir uns nicht
-verloren,
+verloren.
 
 Einmal in der Nacht standen wir ganz plötzlich und unvermutet vor einem Zelt. Am
 Seeufer, in einer Mulde zwischen zwei Dünen, hatte sich jemand um einen langen

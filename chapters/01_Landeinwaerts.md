@@ -132,7 +132,7 @@ Reichsangehörigen das Reisen in das Innere von China bis auf weiteres nicht meh
 gestattet werden dürfe. Gleichzeitig wurde mir mein im Jahre 1903 für die Reise
 mit Filchner ausgestellter chinesischer Ministerialpaß (wai wu bu-Paß)
 abverlangt und mir direkt verboten, das Innere Chinas ein zweites Mal zu
-betreten. .
+betreten.
 
 Der Boden schien mir unter den Füßen zu schwinden. Mit zitternden Händen legte
 ich den Paß in die Hände unseres Generalkonsuls und meine deutsche militärische
@@ -441,13 +441,13 @@ Bretterläden vor den Glasfenstern geschlossen, höchstens durch feine, schmale
 Ritzen konnte bei der Finsternis der Strahl meiner Kerze unseren Schiffsort
 verraten. Statt des beruhigenden, taktmäßigen Trommelns einer Soldatenwache
 unterbrach diese Nacht nur das leise Gurgeln der Wellen die Stille. Da plötzlich
-— ein verzweifelter Schrei der Frau meines Schifisherrn, darauf ein Ruck, der
+— ein verzweifelter Schrei der Frau meines Schiffsherrn, darauf ein Ruck, der
 das ganze Schiff erzittern läßt, ein wildes Geschrei vieler Männer — aber bis
 ich aufgesprungen und mit einer Waffe ins Freie gekommen bin, hat man längst ein
 Boot abstoßen hören und alles ist wieder ruhig, die Räuberschar im Dunkeln
 verschwunden. Es müssen viele Leute gewesen sein, daß sie es wagten, ein so
 großes Schiff anzugreifen. Unhörbar waren sie auf das flache Dach gekrochen,
-hatten das Segel abgeschnitten und mit fortgenommen.,
+hatten das Segel abgeschnitten und mit fortgenommen.
 
 Wir waren aber noch glimpflich weggekommen. Schlimmer war es wenige Jahre früher
 einem amerikanischen Missionar ergangen. Dieser reiste mit seiner jungen, ihm
@@ -823,7 +823,7 @@ neben mir saß, mein Bett ausgebreitet. „Der fremde Herr braucht sich ja nicht
 genieren, tue ganz wie zu Hause!“ sagte der Polizeidiener, als er sich empfahl.
 Ma brachte mir später noch eine Schüssel Nudeln und eine Kanne Tee, dann blieb
 ich allein, während meine Kerze magische Lichter und Schatten von den großen
-bemalten Götzen an die Steinmauern warf,
+bemalten Götzen an die Steinmauern warf.
 
 Mein Quartier wäre auch wirklich vorzüglich gewesen, wenn es nicht mitten in der
 Nacht zu regnen angefangen hätte. Bald ging es aber nicht mehr bloß tropf!
@@ -964,7 +964,7 @@ Mathematiker hatten dann ausgerechnet, daß nur eine neue Steinpagode auf einem
 hohen Berge unweit vom Flusse unterhalb der Stadt dieses wieder in Ordnung
 bringen könne. Schon das Jahr vorher hatte ich dort im Vorbeifahren das
 halbzerfallene Baugerüst eines unfertigen Turmes bewundert. Der war seither auch
-nicht weiter gediehen, denn das Baugeld lwar ausgegangen. _Außerdem schienen die
+nicht weiter gediehen, denn das Baugeld lwar ausgegangen. Außerdem schienen die
 Götter und Geister schon mit zwei .Stockwerken befriedigt‚ denn unter dem Jubel
 der ganzen Stadt war mittlerweile ein erfolgreicher Kandidat vom letzten Termine
 heimgekehrt Damit, daß jener Berggipfel durch den Turm um einige Meter erhöht
@@ -1066,7 +1066,7 @@ liebenswürdige Herr Abt scheute nicht die Mühe, zündete eigenhändig eine der
 schwer anbrennenden, dicken, chinesischen Wachskerzen mit dem hölzernen Docht
 an, ließ kunstvoll ein wenig Wachs an der Wand abtropfen und klebte so nach gut
 chinesischem Brauch die Beleuchtung des alten kaiserlichen Wohngemachs an der
-Mauertünche fest,
+Mauertünche fest.
 
 Das Kloster Tschu fu ngan ist der räumlichen Ausdehnung nach noch heute eine
 imposante Tempelanlage, Man hat sich hier noch breit ausdehnen können. Es liegt
@@ -1822,7 +1822,7 @@ Schwein, dann auch Eier, Paprika, Flechten usw. Fleisch als Hauptspeise kommt
 als Alltagsgericht selbst bei den Reichen nicht vor. Am Boden hockten die
 jüngeren Leute und sittsam im Nebenzimmer die vielen Frauen der Familie und die
 erwachsenen Töchter. Oft waren es zwanzig und mehr Personen, und ein Tauber kann
-es hören, wie es ihnen schmeckt und — geschmeckt hat,
+es hören, wie es ihnen schmeckt und — geschmeckt hat.
 
 Die Straße von Lung tschü tschai nach Tung kwan ting führt meist im Grunde von
 engen Durchbruchstälern. Selten nur bot sich mir ein weiterer Ausblick. Obwohl
@@ -1895,7 +1895,7 @@ durch den gelben Lößstaub zum Gelben geworden.
 :::: {.wrap-40 .break-before }
 ![Abb.5. Kueihsing, der Literaturgott.](Meine_Tibetreise_I_042.jpg "Kueihsing, der Literaturgott."){#b042}
 ::::
-<small>Zusammengesetzt aus den chinesischen Zeichen der zwei aus der Zeit des Konfucius (551—479 v. Chr.) stammenden klassischen Zitate: „sheng sin hsin schen“ = ein gerader Sinn, ein gesunder Körper (aus Ta hsio, Kap. 1); „ko tschi fu li“ = sich selbst besiegen und Schicklichkeit üben (aus Lun yü, Kap. 12). Kuei hsing_bewohnt das Sternbild des Großen Bär und gibt dem Zeichen des letzten Sterns im Großen Bär einen Fußtritt. (Verkleinerung nach einem alten Inschriftenstein im Be ling (Inschriftenhain) in Hsi ngan fu, natürliche Größe 1,30 m.)</small>
+<small>Zusammengesetzt aus den chinesischen Zeichen der zwei aus der Zeit des Konfucius (551—479 v. Chr.) stammenden klassischen Zitate: „sheng sin hsin schen“ = ein gerader Sinn, ein gesunder Körper (aus Ta hsio, Kap. 1); „ko tschi fu li“ = sich selbst besiegen und Schicklichkeit üben (aus Lun yü, Kap. 12). Kuei hsing bewohnt das Sternbild des Großen Bär und gibt dem Zeichen des letzten Sterns im Großen Bär einen Fußtritt. (Verkleinerung nach einem alten Inschriftenstein im Be ling (Inschriftenhain) in Hsi ngan fu, natürliche Größe 1,30 m.)</small>
 
 
 :::

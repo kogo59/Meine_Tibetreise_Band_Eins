@@ -140,7 +140,7 @@ Holzarmut der Umgebung wenig hoch; auf seinen Seiten finden sich mehrere große
 alte Inschriftsteine. Die ganze Anlage ist für uns heute noch dadurch denkwürdig
 geworden, daß die verstorbene Kaiserin-Mutter zusammen mit dem Kaiser Kuangsü
 1901 über einen Monat lang hier wohnte, als sie vor den europäischen Truppen aus
-Peking hatte flüchten müssen,
+Peking hatte flüchten müssen.
 
 In Hoa yin miao^[^0205]^ befand ich mich noch immer an einer Hauptverkehrsader des
 Reichs. Auf wackelig aussehenden Stangen konnte man den Reichstelegraph^[^0204]^ nach
@@ -429,7 +429,7 @@ tempelgekrönten Felsvorsprüngen, mißt die Breite des Flusses kaum mehr als 50
 und dicht oberhalb, an einem Punkt, wo nur bei sehr hohem Wasserstand noch ein
 winziger Seitenarm sich hinter einer vorspringenden Felsklippe abzweigen kann,
 führt das Fährboot zum anderen Ufer, Die Chinesen machen sich zur Überfahrt eine
-oberflächliche Rückströmung sehr geschickt zunutze,
+oberflächliche Rückströmung sehr geschickt zunutze.
 
 Es war vielleicht höflich gedacht, klang aber doch wenig beruhigend, als während
 des Verladens ein freundlicher Zollbeamter auf die Schiffsleute einsprach: „Gebt
@@ -471,7 +471,7 @@ Zollhäuser am Schen si- und Schan si-Ufer sind gute Pfründen.
 Auf der Schan si-Seite, unterhalb und außerhalb des Felsvorsprungs, der mit weit
 ausladenden Pavillons, mit Tempeln und Galerien dicht besetzt ist, liegt ein
 ärmliches Lehmdorf. Wie die Tempelbauten selbst trägt es den Namen Yü men kou,
-Tor des Kaisers Yü ([Tafel XIII](b064)). Davor an dem schlammigen, flachen Strand lagen
+Tor des Kaisers Yü ([Tafel XIII](#b064)). Davor an dem schlammigen, flachen Strand lagen
 Hunderte von Booten und wurden eben mit Kohlen beladen. Um die Hütten von Yü men
 kou herrschte von früh bis spät ein reges Leben, da sprühten die Essen, und
 Hunderte hämmerten an Brettern und Spanten. Nicht genug Boote kann der
@@ -488,7 +488,7 @@ sonderbaren, fast möchte man sagen, unheimlichen Anblick, Es erheben sich auf
 ihnen Häuser aus Matten oder dreieckige zeltartige Schutzdächer aus Reisig mit
 einem Lehmbewurf, vor diesen aber steht noch ein hohes viereckiges Holzgerüst
 mit vielen langen eisernen Glocken und sonderbaren eisernen Rosetten, Fratzen
-und Figuren ([Tafel X](#048b)).
+und Figuren ([Tafel X](#b048b)).
 
 Während der Fahrt flußaufwärts haben die Boote nur wenig geladen und doch sitzen
 sie einen größeren Teil ihrer Reisezeit auf irgend einer Sandbank fest. Das
@@ -560,7 +560,7 @@ und fließt in wenig ausgiebigen Windungen rasch und eilig in einem Felscanon
 zwischen graugrünen Sandsteinmassen dahin. Und so ging es nun wochenlang dem
 Fluß entlang weiter aufwärts gen Norden.
 
-Nie konnte ich weit das 'Tal hinaufsehen, nie konnte ich von den Bergen aus
+Nie konnte ich weit das Tal hinaufsehen, nie konnte ich von den Bergen aus
 sicher im voraus sagen, wie das Tal weiterging. Kaum war ich aus der Schlucht
 heraus, so waren Fluß und Tal schon den Blicken entschwunden und unabsehbar weit
 zeigte sich eine unendliche Zahl von Lößgipfeln, ein Labyrinth von Rücken und
@@ -704,7 +704,7 @@ Ki tschou ließ pro Dan 6 Kupfercash erheben, wozu dann noch 6 weitere Cash
 kamen, der Gehalt und „Squeeze“ für die Schreiber und Angestellten des
 Mandarins.
 
-In Sche kia tan konnte ich bis Jange nach Mitternacht_ zu keiner Ruhe kommen.
+In Sche kia tan konnte ich bis Jange nach Mitternacht zu keiner Ruhe kommen.
 Der Transport der Kohlen den Hoang ho hinab spielt ja — wie wir gesehen haben —
 eine sehr wichtige Rolle. Auf Lasttieren wird von hier wenig abgeführt, das ist
 schon zu teuer; dabei kann selbst die schöne Kohle von Ts'ai gu kou nicht mit
@@ -799,7 +799,7 @@ allein soll das Getreide vor dem gänzlichen Untergang geschützt sein. Die
 Aussaat sowie das Umsetzen wird noch in der Zeit der sommerlichen Gewitterregen
 besorgt. Die Pflänzchen haben dann schon genügende Größe, wenn die allwinterlich
 herrschende vollkommene Trockenheit beginnt. Durch das Umsetzen der
-Getreidestöckchen ist in der Tat —_wie in letzter Zeit russische Landwirte in
+Getreidestöckchen ist in der Tat — wie in letzter Zeit russische Landwirte in
 Erfahrung gebracht haben eine reichere Bildung von Haarwurzeln bedingt, und
 diese ermöglicht es den Pflanzen die in den vielen Kapillaren und Poren des
 Lösses stets, wenn auch in geringer Menge vorhandene Feuchtigkeit in genügendem
@@ -873,7 +873,7 @@ oben noch? Da fließt ja der Fluß breit über die ganze Talfläche hin! Bricht 
 Hochwasser herein? Dann aber rasch auf die Talseiten hinaus, ehe es zu spät ist!
 Kein Rauschen wird hörbar ein andauerndes gewaltiges Brausen — kein Zweifel,
 dort poltern mächtige Wassermassen... Und nun enthüllt sich das Geheimnis: Der
-ganze Hoang 1?0 stürzt in freiem Fall über die Felsen in den schmalen
+ganze Hoang Ho stürzt in freiem Fall über die Felsen in den schmalen
 Längsspalt, in dem ich den Fluß schon weiter unten im Tale getroffen.
 
 Man hat hier ein ganz eigenartiges Naturschauspiel vor sich. Auf einer härteren,
@@ -962,7 +962,7 @@ so hat das Räuberwesen hier in jener Art überhandnehmen können, von der ich
 schon oben einiges erzählt habe.
 
 Langsam ging mein Marsch weiter, bald dicht am Flusse hin, bald einer besonders
-schlechten Stelle hoch über die Berge ausweichend., Oft mußte der Weg erst von
+schlechten Stelle hoch über die Berge ausweichend. Oft mußte der Weg erst von
 eigens hierzu geheuerten Leuten hergerichtet werden. Mit Spaten, Hacken und
 Säbeln waren oben auf den Höhen die Lößwege zu erbreitern, damit die Maultiere
 nicht mit meinen Kisten und Eisenkoffern in den Abgrund fielen. Eines Tags
@@ -1263,7 +1263,7 @@ ebenso wenige Arten Insekten. Doch habe ich es zweimal im Ho-Tale
 nächtlicherweile zu einem Skorpionstich gebracht. Die nordchine- sischen
 Skorpione sind klein, kaum so groß wie ein Fünfmarkstück. Der Stich ist sehr
 schmerzhaft, geradezu lähmend, wird jedoch von den Chinesen nicht weiter
-gefürchtet, Einige Stunden später war bei mir aller Schmerz vor- über.
+gefürchtet, Einige Stunden später war bei mir aller Schmerz vorüber.
 
 Die Reise war sehr anstrengend. Täglich brannte die Sonne glühend heiß. Täglich
 zeigte das Schleuderthermometer über 30° C. Ich konnte der Tiere wegen nur noch
@@ -1311,12 +1311,12 @@ Karbonkalk zu durchbrechen. 10 km von der Stadt ist ein Katarakt, Tien kiao, die
 Himmelsbrücke genannt. Eine Kalkschicht hat dort der erodierenden Kraft des
 Wassers etwas mehr Widerstand entgegengesetzt, und ganz wie bei Hu kou hat der
 Fluß diese bis jetzt erst in einzelnen schmalen spaltähnlichen Furchen
-anzugreifen vermocht (Tafel XXVI).
+anzugreifen vermocht ([Tafel XXVI](ch005.xhtml#b112a)).
 
 Die Chinesen kommen durch die Tien kiao-Schnelle gerade noch mit ihren Booten
 durch. Wie durch eine Floßgasse reißt es ihre Schiffe hinab, und viele
 zerschellen alljährlich an den seitlichen Felsen. Die Schiffe können nur ganz
-rechts an hohen Felsen entlang hinabfahren. „Jährlich gehen 1—2 ‚fen‘ (10 bis 20
+rechts an hohen Felsen entlang hinabfahren. „Jährlich gehen 1—2 ‚fen (10 bis 20
 Prozent) dort zugrunde,“ sagte der Polizeioffizier von Bau de, „und etwa zehn
 Mann finden alle Jahre den Tod in den Wellen. Deshalb sind auch die Fische so
 schmackhaft, die man unterhalb der Strudel fängt und die von hier aus jeden
@@ -1436,7 +1436,7 @@ haben deshalb so gut wie keinen Dienst und sind Bauern.
 
 Gu schan bu ist einer der nördlichsten Plätze, den die Mohammedaner in den
 1860er Jahren bei ihrer großen Rebellion verbrannt haben. Bis vor Fuku hsien
-kamen sie damals, zogen aber gleich wieder ab. Gu_schan bu gehört zu der langen
+kamen sie damals, zogen aber gleich wieder ab. Gu schan bu gehört zu der langen
 Kastellreihe, die sich hinter der „langen Mauer“ hinzieht. Ein Teil seiner
 Mauern besteht nur aus gestampftem Lehm, ein anderer aus Ziegeln, die einen
 Lößlehmkern umschließen.
@@ -1728,7 +1728,7 @@ einst die bekannte Chinesin Fan li hoa. Wie sie, tapferer als die Männer ihrer
 Zeit, dem Ansturm der Barbaren entgegentrat und wie sie ihre eigenen Söhne
 hinrichten ließ, als diese sich als feige Memmen zeigten, weiß heute noch alt
 und jung; die Geschichte von der Fan lihoa ist eines der beliebtesten Stücke auf
-den Tausenden von Bühnen in Nordchina,
+den Tausenden von Bühnen in Nordchina.
 
 Mag sein, daß ich nach den langen Wochen und Monaten, die ich in der Umgebung
 von dürrem, gelbem Löß und gelblichgrünem Sandstein zugebracht, bei dem
@@ -2078,7 +2078,7 @@ kann nur als vierstellige Zahl telegraphiert werden. Nach Empfang eines jeden Te
 
 [^0210]: [D. i. Langhaarige = Tai ping-Rebellen. Die Anhänger von Hung hsiu tsch‘üan ließen alle Haare lang wachsen, wie in der vormandschurischen Zeit, und trugen nicht die mandschurische Zopftracht.]{.footnote}
 
-[^0211]: [Im Altertum hatten die chinesischen Machthaber als Einahmen nur die Salzsteuer und das Monopol der Eisenverhüttung, der Fabrikation und des Vertriebes der notwendigsten eisernen Geräte, Pflüge usw. Erst im Jahre 931 n. Chr. wurde eine Geldsteuer an Stelle des Eisenmonopols eingeführt. Es wurden zunächst nach jeder Ernte, also zweimal im Jahr, für jeden Morgen drei Kupferstücke eingesammelt (Siehe auch Wieger, S, J., Textes historiques, Bd. IIT, S. 1798.)]{.footnote}
+[^0211]: [Im Altertum hatten die chinesischen Machthaber als Einahmen nur die Salzsteuer und das Monopol der Eisenverhüttung, der Fabrikation und des Vertriebes der notwendigsten eisernen Geräte, Pflüge usw. Erst im Jahre 931 n. Chr. wurde eine Geldsteuer an Stelle des Eisenmonopols eingeführt. Es wurden zunächst nach jeder Ernte, also zweimal im Jahr, für jeden Morgen drei Kupferstücke eingesammelt (Siehe auch Wieger, S. J., Textes historiques, Bd. IIT, S. 1798.)]{.footnote}
 
 [^0212]: [1 tsing = 100 mou-Morgen; 1 mou = 500 qm.]{.footnote}
 

@@ -23,7 +23,7 @@ Reliefs, ganz aus Butter gefertigt und von Butterlampen beleuchtet, spielen
 dabei jetzt die Hauptrolle. Da alles aus Butter ist, so ist das Fest von
 Europäern auch „Butterfest“ genannt worden. Im Chinesischen und Tibetischen
 hörte ich. dieses Wort jedoch nicht anwenden. Für die Chinesen insbesondere
-bilden die Lampen (die „deng‘) immer noch die Hauptsache. „Yang sien seng, Ta ör
+bilden die Lampen (die „deng“) immer noch die Hauptsache. „Yang sien seng, Ta ör
 se kan ‚deng‘ lai leao!“ („fremder Lehrer, kommst, in Gum bum^[^0601]^ die
 Lampen zu sehen!“) grüßten mich deshalb unterwegs Hunderte von Chinesen, als ich
 vier Tage vor dem Feste von Hsi ning fu aus in Begleitung eines offiziellen
@@ -773,7 +773,7 @@ großen Feste stehen in den tibetischen Klöstern alle Tempel dem Publikum offen
 Deshalb hatte ich auch bei diesem Besuch keinerlei Schwierigkeiten, überall
 hineinzukommen. Nur bei größerem Andrang schlossen die Sakristane der einzelnen
 Tempel für eine Weile die Türe, um der Überfüllung zu steuern und um etwaige
-Diebereien durch Besucher besser verhindern zu können,
+Diebereien durch Besucher besser verhindern zu können.
 
 Betritt man den Goldtempel, so erkennt man in dem Halbdunkel seines schlecht
 erleuchteten Inneren zuerst nur eine ungeheure Masse von weißlichen
@@ -1011,7 +1011,7 @@ farbenprächtigste Publikum, das man je irgendwo treffen mag. Mit verächtlichen
 Mienen sah ich einige in Seide zwar, aber doch weniger farbig gekleidete
 Tientsin-er Großkaufleute eine japanische Zigarette rauchend durch die Menge
 stolzieren. Sie fühlten sich sichtlich hoch erhaben über all die Barbaren, die
-sich so phantastisch bunt anzogen,
+sich so phantastisch bunt anzogen.
 
 Plötzlich ertönten aus der Höhe im Crescendo dumpfe Hornsignale aus langen
 Kupferposaunen. Man hatte die Hörnerbläser auf dem flachen Dach des im Norden an
@@ -1054,7 +1054,7 @@ Schenkelknochen verfertigte Trompete von sich gab. Die breite, doppelflüglige
 Tür des Theaterpavillons öffnete sich, die Zimbeln und Trommeln setzten langsam
 und feierlich ein und in den Hof sprangen im Takte der Zimbeln vier Totenmasken
 (Dur tschod)^[^0643]^, mit Bändern und Tüchern wild geschmückte Totengerippe, die von
-etwa 15jährigen Mönchs' zöglingen dargestellt wurden. Sie tanzten und sprangen
+etwa 15jährigen Mönchszöglingen dargestellt wurden. Sie tanzten und sprangen
 zum Zimbelklang auf dem großen freigelassenen Platz paarweise und kunstvoll;
 bald sich sammelnd, bald sich wieder zerstreuend, schnellten sie sich in die
 Höhe, drehten sich auf einem Fuß, schwangen die Arme und hoben die Füße, während
@@ -1278,7 +1278,7 @@ Gepränge nicht vergessen.
 ::::
 
 :::: { .wrap-60 }
-![Bäuerinnen auf der Messe von Wei yüan bu.](Meine_Tibetreise_I_240e.jpg "Bäuerinnen auf der Messe von Wei yüan bu."){#b240d}
+![Bäuerinnen auf der Messe von Wei yüan bu.](Meine_Tibetreise_I_240e.jpg "Bäuerinnen auf der Messe von Wei yüan bu."){#b240e}
 ::::
 
 :::: { .wrap-80 }
