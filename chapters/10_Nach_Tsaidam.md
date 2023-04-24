@@ -431,7 +431,7 @@ viel weniger kriegerisch sind als die Tibeter, die größten Eigenmächtigkeiten
 ::::
 
 :::: { .wrap-80 }
-![Wulasetä-Mündung.<small>(Die Randberge von Ts‘aidam im Gebiet von Barun sind völlig kahl. Nur an den Bachrändern stehen einige Sträucher.)</small>](Meine_Tibetreise_I_336b.jpg "Wulasetä-Mündung."){#b336b}
+![Wulasetä-Mündung. <small>(Die Randberge von Ts‘aidam im Gebiet von Barun sind völlig kahl. Nur an den Bachrändern stehen einige Sträucher.)</small>](Meine_Tibetreise_I_336b.jpg "Wulasetä-Mündung."){#b336b}
 ::::
 
 :::: { .wrap-80 }
