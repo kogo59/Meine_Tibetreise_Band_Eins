@@ -417,7 +417,7 @@ Expedition kostete, war größtenteils in die Taschen der Offiziere geflossen.
 Niemand spricht mehr von seinem „Gesicht“ — zu deutsch: seiner Ehre — als gerade
 die Kan su-Leute; aber daß sie seit 1800 einen Bezirk in ihrem Tibetteil nach
 dem anderen verlieren, daß ihre Beamten wohlgemut nach einer Niederlage aus dem
-Innern zurückkehren, wie.z. B, 1905 der Dankar ting aus dem ngGolokh-Lande, oder
+Innern zurückkehren, wie z. B, 1905 der Dankar ting aus dem ngGolokh-Lande, oder
 ungerächt und ungestraft einen Ts‘ai von den Tibetern erschlagen lassen, berührt
 dieses „Gesicht“ nicht. So wagen selbst die mongolischen Bannerführer, die doch
 viel weniger kriegerisch sind als die Tibeter, die größten Eigenmächtigkeiten.
