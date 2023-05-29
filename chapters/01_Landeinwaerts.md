@@ -571,7 +571,7 @@ An frohe Tage der Stadt erinnert noch heute ein großes Schild am Westtor, auf
 dem die Worte zu lesen sind: „Aus dem Westen kommt gute Kunde.“ Diese Inschrift
 war angebracht worden, als man von der Angst über den Ausgang einer
 militärischen Expedition nach der Provinz Se tschuan befreit wurde. Jetzt ist
-dieser Grund beinahe vergessen, und die „Gute-Kunde- Kirche“, wie wörtlich
+dieser Grund beinahe vergessen, und die „Gute-Kunde-Kirche“, wie wörtlich
 übersetzt eine der größten protestantischen Missionen in China sich nennt, hat
 ein Haus daneben und predigt dort die „Gute Kunde“, die Religion des
 Abendlandes.
@@ -1506,7 +1506,7 @@ Begleitung durch einen seiner Soldaten zu gewähren. Den einheimischen Bauern un
 Lastträgern gegenüber ist solch eine Eskorte, auch wenn sie wie gewöhnlich nur
 aus einem mit einem papierenen Regenschirm bewaffneten Jüngling besteht, das
 Zeichen, daß der Fremde das Rechht hat im Lande zu reisen. Sie gibt das Ansehen,
-das „Gesicht“ , wie man sich in China ausdrückt. Der begleitende Soldat kennt
+das „Gesicht“, wie man sich in China ausdrückt. Der begleitende Soldat kennt
 zwar meist nicht einmal den Weg, aber er hat auf seiner farbigen Bluse in der
 Mitte vorn und hinten je einen großen stempelartigen Fleck mit der Aufschrift,
 wem er gehört‚ und dieser Stempel bürgt für den Frieden. Trotzdem nun die Grenze

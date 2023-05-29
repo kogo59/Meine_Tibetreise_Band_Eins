@@ -1,4 +1,4 @@
-% Meine Tibetreise. Erster Band..<br /><br />
+% Meine Tibetreise. Erster Band.<br /><br />
 % Dr. Albert Tafel (1876—1935)<br /><br />
   <br/>Dieses Werk basiert auf dem Digitalisat von [Digital Archive of Toyo Bunko Rare Books](http://dsr.nii.ac.jp/toyobunko/VII-1-56/V-1/) und ist Public Domain.
   <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;Der [Urheber](https://de.wikipedia.org/wiki/Albert_Tafel) dieses Werks ist 1935 gestorben; es ist daher gemeinfrei,

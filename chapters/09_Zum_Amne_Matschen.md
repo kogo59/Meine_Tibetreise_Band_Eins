@@ -295,7 +295,7 @@ hinüber. Früh am Nachmittag schlugen wir Lager am Rande der nächsten „Yung�
 eines breiten Tales, das sich parallel zu dem vom Vorhergehenden Tage hinzieht.
 Wir begegneten unterwegs vielen Antilopen und rings um unsere Zelte wohnten
 Murmeltiere, die neugierig vor ihren Löchern „ein Männchen machten“ und bei
-jeder Annäherung ängstlich zu pfeifen. be- gannen, Unser neuer Lagerplatz hatte
+jeder Annäherung ängstlich zu pfeifen. begannen, Unser neuer Lagerplatz hatte
 kein Wasser, aber es gab noch etwas Schnee von der Woche vorher. Die Sonne hatte
 freilich weitaus das meiste aufgeleckt, Heute mußten die Tiere nirgends mehr das
 Gras aus dem Schnee herausscharren.
@@ -1179,7 +1179,7 @@ von Obrutschew eingeführt. Er sah viel weiter nordwestlich, beim Dabassu nor,
 vom Süd-Kuku nor-Gebirge aus, südlich von seinem Standpunkt, einen neuen
 Parallelzug und benannte diesen mangels eingeborener Bezeichnungen nach dem
 Vorsitzenden der K. Russischen Geographischen Gesellschaft Semenow
-Tianschanskil^[^0904]^. Der Teil dieser mächtigen Kette , den ich jetzt mit meiner
+Tianschanskil^[^0904]^. Der Teil dieser mächtigen Kette, den ich jetzt mit meiner
 Karawane überschritt, stand seit General Prschewalskis Reisen in unseren Karten
 unter dem Namen Siansibei-Kette. Es war bisher keine Klarheit darüber, daß diese
 von Prschewalski entdeckte Kette mit dem Semenowgebirge einen Zusammenhang hat.
@@ -1958,7 +1958,7 @@ alle Windrichtungen Berggeisternamen, ließ Wolleflöckchen fliegen und streute
 zahllose bedruckte Papierfetzchen (tibet.: sLong rschda, geschr.: rlung rta, s.
 Abb. 18) in den Wind. Es war der Gottesdienst, den reisende Akka von einem
 kleinen Kloster bei Dankar zur Feier des Vollmondtages abhielten, denn es
-war.gerade der 15. des Monates nach dem tibeti- schen Kalender. Sie waren auf
+war.gerade der 15. des Monates nach dem tibetischen Kalender. Sie waren auf
 der Reise zu den Wansch däch‘ tseidia-Tibetern, bei denen sie den Sommer über
 für ihr Kloster milde Gaben zu sammeln hatten, Die Wansch däch‘ tseidia hatten
 hier im Winter ihre Herden geweidet. Alle Klöster von Amdo schicken solche

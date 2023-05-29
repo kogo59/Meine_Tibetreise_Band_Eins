@@ -208,7 +208,7 @@ Jetzt aber war ich bereits im Gebiet der Be fu (schu) fan tse^[^0504]^ (tib.: Da
 Ihr Häuptling hatte zu jener Zeit einen Reisetag nördlich von meiner Route im
 Tal des Tsungkuk gol sein Lager. Dieser Tibeter gilt für ziemlich mächtig, ihm
 unterstehen ungefähr siebenhundert Familien, die in sieben Zeltvereinigungen
-geteilt sind, welche je unter Unterführern stehen und „Wa“ (chin. : tsu) genannt
+geteilt sind, welche je unter Unterführern stehen und „Wa“ (chin.: tsu) genannt
 werden. Die Be schu fan tse sind bereits ein Stamm des S. 177 erwähnten
 Banagkaksum. Wir trafen zunächst auf vier Zelte, deren Bewohner arm waren. Es
 waren Leute, die das Vieh und die Pferde ihres Häuptlings hüteten. Bis vor noch
@@ -248,9 +248,9 @@ störung des Hsi Hsia-Reiches die Herren Innerasiens und kurz darauf die Herren
 des chinesischen Reichs geworden waren, wurden sie auch die nominellen
 Beherrscher und Beschützer des Kuku nor-Gebiets. Keine ihrer Familien hat sich
 aber damals hier niedergelassen. Sie waren dazu viel zu wenig volkreich. Erst
-lange nach der Vertrei- bung der Mongolen- oder Yüan-Dynastie aus dem
+lange nach der Vertreibung der Mongolen- oder Yüan-Dynastie aus dem
 eigentlichen China (1368) drang im Jahre 1509 ein Altai-Mongolenstamm in das
-Kuku nor-Land ein, warf unter seinem An- führer Ibula die Tibeter, die hier
+Kuku nor-Land ein, warf unter seinem Anführer Ibula die Tibeter, die hier
 Königreiche hatten, die chinesisch An ting, Tschü hsien usw. hießen, vertrieb
 sie aus der Seegegend und machte, was nicht nach Süden entfloh, zu Hörigen, In
 der Chronik der Ming-Dynastie wird gesagt, daß diese Mongolen nach einer
@@ -648,7 +648,7 @@ Filzmützen als Hauptcharakteristikum. Es ist die kalmükische Kalpa.
 ![Dschara re und Hait se schan mit dem Wannental, das von Ta tsien lu heraufführt. <small>Von Osten von 4300m Höhe am Da po schan.</small>](Meine_Tibetreise_I_192d.jpg "Dschara re und Hait se schan mit dem Wannental, das von Ta tsien lu heraufführt."){#b192d}
 ::::
 
-&nbsp;14. Januar. Früh am Morgen überschritten wir den Ke tou ya hu (mongol. : Keten
+&nbsp;14. Januar. Früh am Morgen überschritten wir den Ke tou ya hu (mongol.: Keten
 khutul), einen niederen und nach beiden Seiten flach abfallenden Bergsattel, der
 das Quellgebiet des Hsi ning ho von dem abﬂußlosen Becken des Ts‘o ngombo (Kuku
 nor) trennt, Zum erstenmal hatte 19h von dort den Anblick der riesigen
@@ -1350,7 +1350,7 @@ Drachenleiber war von zwölf Männern dargestellt, die hintereinander herzogen.
 Hinter dem Drachen ritten die Kavalleristen des Amban, ihren halbzerbrochenen
 und verbeulten Posaunen schauerliche Töne entlockend, die sicherlich auch
 Jerichos Mauern zu Fall gebracht hätten. Zwanzig Reiter trugen ungeheure bunte
-Fahnen, die Roß und Mann fast unter sich verschwinden ließen ([TafelXLVI](#b208c)). 
+Fahnen, die Roß und Mann fast unter sich verschwinden ließen ([Tafel XLVI](#b208c)). 
 Dann kamen Infanteristen des Generals zu zwei und zwei, in der
 Hand das deutsche Gewehr Modell 71—84, Visier und Mündung festlich mit neuen
 roten Papierbäuschchen geschmückt, in der Mündung den bei chinesischen Gewehren
@@ -1447,7 +1447,7 @@ erschweren.
 [^0507]: ['Amuni oder Amnie, nach Klaproth und Rockhill Amye, Vorfahre oder Ahn.
 Es sind dreizehn solcher Amne-Gipfel in Nordosttibet, von denen der Amne Matschen der höchste und heiligste ist. Amne gser tschen würde etwa „großer goldener Vorfahre“ heißen, wenn nicht etwa eine Erinnerung an „Gesar“ darin zu suchen ist.]{.footnote}
 
-[^0508]: [Tsaghan, mongolisch = weiß ; tsch‘eng, chinesisch = Stadt. Derartige Mißbildungen kommen an der chinesisch-tibetischen Grenze vielfach vor. Der Ort wird auch „ying pan ga tang“ genannt und hieß früher „tsaghan tologhä“.]{.footnote}
+[^0508]: [Tsaghan, mongolisch = weiß; tsch‘eng, chinesisch = Stadt. Derartige Mißbildungen kommen an der chinesisch-tibetischen Grenze vielfach vor. Der Ort wird auch „ying pan ga tang“ genannt und hieß früher „tsaghan tologhä“.]{.footnote}
 
 [^0509]: [Mongolischer Name, zu deutsch: „gelbe Stadt“. Die Chinesen nennen den Ort Scha la ku to und erklären diesen Namen als „Stadt der grünen Au“.]{.footnote}
 

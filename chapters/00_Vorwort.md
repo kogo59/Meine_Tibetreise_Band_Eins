@@ -111,7 +111,7 @@ es entspricht: „y“ unserem deutschen „j“ ;
 
 „r“ im Nordwesten des Reichs einem deutlichen Kehl-,,r“;
 
-„k“ vor „i“ und „ü“ im Norden Chinas einem „tsch“ , das sich bis zu einem „d“
+„k“ vor „i“ und „ü“ im Norden Chinas einem „tsch“, das sich bis zu einem „d“
 erweichen kann,
 
 Im *Tibetischen* und *Mongolischen*, die bekanntlich eigene Buchstabenschriften

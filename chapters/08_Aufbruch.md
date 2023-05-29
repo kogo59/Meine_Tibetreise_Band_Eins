@@ -336,7 +336,7 @@ Chinesenposten, der letzte von Chinesen bewohnte Ort am Hoang ho, ja überhaupt
 der letzte Ort an diesem Fluß, und ist besonders stark von der Regierung
 befestigt worden. Ringsherum wohnen Tibeter, teils solche, die Ackerbau treiben,
 teils, und zwar im Süden und Westen, Nomaden. Die Stadt Kue de liegt nur 2310 m
-hoch. - Sie ist unter all den Grenzstädten des ganzen Fu, d. h. der Präfektur
+hoch. —  Sie ist unter all den Grenzstädten des ganzen Fu, d. h. der Präfektur
 von Hsi ning, zu der sie gehört, die wärmste; aber gleich westlich der Stadt,
 oberhalb einiger Inseln, durchströmt der Hoang ho eine enge Schlucht, die sich
 der Fluß mit steilen Ufern in eine um 250 m höhere Terrasse eingerissen hat. Auf
@@ -354,8 +354,8 @@ in denen die Soldaten und Beamten mit ihren Familien wohnen. Auf dem Stadtwalle
 sah ich große Haufen faustgroßer Steine, die zur Verteidigung herbeigeschleppt
 worden waren. Das eigentliche Leben und Treiben der Stadt, Kauf und Verkauf,
 vollzieht sich vor dem Südtor. Dort sind mehrere Straßenzüge, an denen Tibeter,
-Mongolen, Mohammedaner und auch chinesische Handelsleute ihre Geschäftsräume und
-‚ihre Wohnungen haben. Man trifft dort äußerst malerische Bilder. Zahlreiche
+Mongolen, Mohammedaner und auch chinesische Handelsleute ihre Geschäftsräume und‚
+ihre Wohnungen haben. Man trifft dort äußerst malerische Bilder. Zahlreiche
 Lamas lungern tagsüber in ihrer kleidsamen Tracht um die offenen Buden herum,
 den Oberrock ihrer Gewandung wie die Toga eines alten Römers über die Schulter
 geschlagen und gelangweilt an ihren Rosenkränzen nestelnd. Trotzig aussehende
@@ -809,7 +809,7 @@ müssen^[^0802]^.
 Sonntagsruhe ist aber nicht bekannt. Zum Glück konnte ich wenigstens an diesem
 Tage das Bezahlen, d.h. das zeitraubende Silberabwiegen, für die acht Ochsen
 erledigen. Auch hier war dies keine kleine Arbeit. In Tibet wird nie
-chinesisches Kupfergeld in Zahlung genommen. - Ich konnte nur mit Silberstücken
+chinesisches Kupfergeld in Zahlung genommen. — Ich konnte nur mit Silberstücken
 bezahlen und das Gewicht mußte immer aufgehen. Da außerdem nie zwei Ochsen, die
 ich in einem und demselben Zelte kaufte, einem Besitzer gehörten, vielmehr
 öfters die eine Hälfte eines Ochsen im Besitze der Hausfrau und die andere

@@ -750,7 +750,7 @@ m breiten Lehmebene und einem Bachlauf, wo auch das letzte mögliche Streifchen
 mit Kartoffeln und Hirse angebaut war. Links und rechts am Rande dieser langen
 Ts‘ing dschi tann genannten Oase standen wie ein Schutzwall zahllose Bäume und
 Sträucher, mit deren Hilfe die Chinesen das weitere Vordringen der dicht daneben
-steil und gleich bis zu 8 m ; Höhe aufsteigenden Sandmassen aufzuhalten suchen.
+steil und gleich bis zu 8 m; Höhe aufsteigenden Sandmassen aufzuhalten suchen.
 
 Lange ging es am Fuß der ersten Lößhöhen hin, die kahl oder nur von wenigen
 Gräsern und einigen Büschen bedeckt waren und die äußersten Signaltürme trugen.
@@ -1214,7 +1214,7 @@ daß es aussieht, als wäre ihr ganzer Kopf rasiert.
 ::::
 
 Der Gesichtsschnitt der Mohammedaner in dieser Ecke von Kan su kommt dem
-chinesischen noch sehr nahe. Das ist auch kein Wunder, denn jahrhunderte- lang
+chinesischen noch sehr nahe. Das ist auch kein Wunder, denn jahrhundertelang
 haben sie sich chinesische Weiber genommen. Wieviel hundert Chinesenfrauen
 wurden nur allein schon aus den belgischen Missionen gestohlen und an die
 Mohammedaner weiter verkauft! Und doch, an gewissen Individuen schwerer, an
@@ -2029,7 +2029,7 @@ tibetisches gebaut ist, hierauf zu den mongolischen Prinzen, die nur noch
 Chinesisch sprechen, und in das leere Haus des Duan wang (Prinz Tuan). Der Fürst
 oder König von Alaschan, ein Ts‘in wang, dem, wie ich hörte, ein gewisser
 Einfluß auf die Urad- oder Orod-Mongolen^[^0352]^ zusteht, und den die Mongolen von
-Bau tu ihren „westlichen König“ nennen, war zur Zeit meines Be- suchs ein sehr
+Bau tu ihren „westlichen König“ nennen, war zur Zeit meines Besuchs ein sehr
 alter Mann. Er war am Pekinger Hofe sehr gerne gesehen und reiste wenigstens
 alle drei Jahre dorthin, was immer den Stamm sehr viel Geld kostete. Auch er war
 mit einer mandschurischen Prinzessin verheiratet. Es ist erstaunlich, wie sehr
@@ -2551,7 +2551,7 @@ auf den Menschen, daß er ihnen helfe. Sie tragen dabei die Lasten infolge ihrer
 schmal gebauten Kruppe viel ruhiger als die Ponys. Auf einer halbwegs guten
 Straße machten meine Maultiere mit den drei bis vier Zentnern auf ihrem Rücken
 in der ersten Stunde am Morgen nur 4 km. Hatten sie aber einmal 30 oder 40 km
-hinter sich, so war ihre stündliche Leistung stets auf 6 km gestiegen ([TafelXXXII](#b128h)).
+hinter sich, so war ihre stündliche Leistung stets auf 6 km gestiegen ([Tafel XXXII](#b128h)).
 
 Am Abend des zweitletzten Tagesmarsches vor Lan tschou fu zitterte ich aber doch
 für meine Habseligkeiten. Ich hielt es damals kaum für möglich, daß die Ausbeute

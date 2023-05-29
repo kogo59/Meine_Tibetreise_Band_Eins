@@ -611,7 +611,7 @@ Als die Akka bei Tagesgrauen erschienen, wurden die „smonlam hkor“ mit ihrem
 „yidam“ im Hintergrund des Zeltes nebeneinander auf eine Kiste gestellt. Das
 „dorma“ aber kam auf ein Binsengeflecht in die Ecke auf den Boden zu stehen. Die
 acht Priester lasen den ganzen Tag und in der folgenden Nacht bis zwölf Uhr zu
-Zimbeln und Trommeln die Smonlam - Gebete, und meine Buddhisten machten
+Zimbeln und Trommeln die Smonlam-Gebete, und meine Buddhisten machten
 wiederholt einen Kotou und warfen Gerste und Schnaps über den „yidam“. Am
 zweiten Tag wurden die weißen Tsambasmonlam auf dem Altar mit Thujablättern
 zusammen verbrannt. Der rote „yidam“ wurde zerteilt und von allen gegessen. Das

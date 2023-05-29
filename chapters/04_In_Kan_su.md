@@ -97,7 +97,7 @@ nicht in Betracht kommen konnte,
 
 Aber nicht bloß Hoang ho-Brückenkopf der „Seidenstraße“ ist die Stadt Lan tschou
 fu. Sie ist auch Knotenpunkt für die Straßen, die sich von Süd-Kansu und Se
-tschuan heraufziehen, sowie für die Tibetstraßen , die von Hsi ning fu und Ho
+tschuan heraufziehen, sowie für die Tibetstraßen, die von Hsi ning fu und Ho
 tschou kommen. Die Stadt ist deshalb auch zum Sitz des Tsung tu oder Tschi t‘ai
 von Schen kan, also zur Residenz eines Vizekönigs gemacht worden. Unter der
 Mandschu-Dynastie, unter dem Kaiser Kien lung um die Mitte des 18. Jahrhunderts,

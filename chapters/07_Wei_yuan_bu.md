@@ -138,7 +138,7 @@ hinausgetragen wurde, kamen die fünfundzwanzig Soldaten des Amban, die zwölf
 Tage zuvor nach dem Kuku nor zur Verfolgung der tibetischen Räuber aufgebrochen
 waren, und trieben die mir geraubten Pferde und Yak in meinen Hof herein. Selbst
 die alte Hündin, die ich zwei Tage vor dem Überfall gekauft hatte, war wieder
-zurückgebracht worden. Von der Ausrüstung aber wurden ; nur einige zerbrochene
+zurückgebracht worden. Von der Ausrüstung aber wurden; nur einige zerbrochene
 Sättel, sowie ein zerhauener Teekessel und ein halber Schlittschuh abgeliefert,
 das übrige hatte andere Herren gefunden. Wer die Räuber gewesen waren, war von
 den Soldaten nicht herauszubringen. Sie sagten nur, „wilde Tibeter vom Süden“
@@ -155,7 +155,7 @@ einem Tale grasend. Dort fanden wir noch drei Tote, die alle unbekleidet und
 steif gefroren dalagen“
 
 Am selben Abend ließ mir der Amban noch sagen, es hätte sich gezeigt, daß die
-Räuber nicht aus seinem Gebiet stammten, daß diesen Winter be- sonders viele
+Räuber nicht aus seinem Gebiet stammten, daß diesen Winter besonders viele
 Räuber aus dem Süden an den See gekommen seien, daß er also die Sache nicht
 weiter verfolgen könne.
 
@@ -336,7 +336,7 @@ eine Hsien be-Herrschaft gewesen sein und die sonderbare, bisher noch nicht
 entzifferte Schrift, welche sich von diesem Reiche erhalten hat, müßte
 mongolisch oder tungusisch sein. Da bei den Chinesen noch heute vieles „ts‘a bu
 do“, d. h. „ungefähr“, gemacht wird, so sehe ich die alte chinesische Angabe,
-daß Hsi Hsia ein „Tanggut Reich“ , und tibetisch gewesen sei, für nicht
+daß Hsi Hsia ein „Tanggut Reich“, und tibetisch gewesen sei, für nicht
 ausschlaggebend an. (Mit dem Wort „Tanggut“ bezeichnen heute allerdings die
 Mongolen vom Kukunor nur die Tibeter, aber seit welcher Zeit weiß man nicht.)
 ::::
@@ -373,7 +373,7 @@ drei Arten in die Augen, die ich sammelte und photographierte. Bei den Tu gu
 h‘ung-Frauen besteht der Kopfputz aus einem metallenen Dreizack, der senkrecht
 aus dem blauschwarzen Haar emporsieht, und den Rücken hinab werden die Haare auf
 einem Brettchen aufgespannt, das mit einem horizontal vom Körper abstehenden
-runden, mit bunten Perlen und Kaurimuscheln bedeckten Teller endigt ([TafelLIII](ch008.xhtml#b240a)). 
+runden, mit bunten Perlen und Kaurimuscheln bedeckten Teller endigt ([Tafel LIII](ch008.xhtml#b240a)). 
 Dieser Teller hat 20—25 cm Durchmesser, Um sich selbst dann noch schöner
 und farbiger zu machen, malen die jungen Bäuerinnen auf ihre breiten, von der
 kräftigen Gebirgssonne tief dunkel gebräunten Mongolenwangen eine kreisrunde
@@ -713,7 +713,7 @@ weit sicherer und besser im Leihhaus.“
 80=wayen&nbsp;&nbsp;&nbsp;Buddha=skopdyo renbodye<br />
 ]{.footnote}
 
-[^0708]: [Wieger, S. J., Textes historiques, Bd. 2, S. 1070 zitiert aus den chinesischen Chroniken : T'ou kou hounn (oder deutsch T‘u gu hun) war der älteste Sohn von „Chee koei“, dem Khan der Dien pi (Hsienbe = Tungusen?), stammte aber von einer Nebenfrau, Sein Vater gab ihm eine Horde, das eigentliche Erbe erhielt dessen legitimer Sohn „Mou joung hoei“. Nach des Vaters Tode (um 308 n. Chr.) kamen die Brüder einen Wortwechsel, weil sich ihre Pferde gegenseitig geschlagen hatten. „T‘ou kou hounn“ verließ mit seiner Horde seine Heimat in der heutigen Mandschurei und überschritt den Liao-Fluß. Um jene Zeit war das chinesische Reich in viele kleine Fürstentümer gespalten und im heutigen Schen si herrschten Hunnen. Die Horde des »T'ou kou hounn“ zog weiter und weiter nach Südwesten, bis sie in der Gegend des Kuku nor gute Weideplätze fand. In der Kuku nor-Gegend wurden die T’oukou hounn in der Folgezeit des öfteren von chinesischen Chronisten erwähnt.]{.footnote}
+[^0708]: [Wieger, S. J., Textes historiques, Bd. 2, S. 1070 zitiert aus den chinesischen Chroniken: T'ou kou hounn (oder deutsch T‘u gu hun) war der älteste Sohn von „Chee koei“, dem Khan der Dien pi (Hsienbe = Tungusen?), stammte aber von einer Nebenfrau, Sein Vater gab ihm eine Horde, das eigentliche Erbe erhielt dessen legitimer Sohn „Mou joung hoei“. Nach des Vaters Tode (um 308 n. Chr.) kamen die Brüder einen Wortwechsel, weil sich ihre Pferde gegenseitig geschlagen hatten. „T‘ou kou hounn“ verließ mit seiner Horde seine Heimat in der heutigen Mandschurei und überschritt den Liao-Fluß. Um jene Zeit war das chinesische Reich in viele kleine Fürstentümer gespalten und im heutigen Schen si herrschten Hunnen. Die Horde des »T'ou kou hounn“ zog weiter und weiter nach Südwesten, bis sie in der Gegend des Kuku nor gute Weideplätze fand. In der Kuku nor-Gegend wurden die T’oukou hounn in der Folgezeit des öfteren von chinesischen Chronisten erwähnt.]{.footnote}
 
 [^0709]: [An verschiedenen Stellen ihres Reiches haben die Chinesen fremde Völker übrig gelassen. Sie drängten sich immer, wie wir es im Hsi ning-er Tal deutlich sehen können, den Handelsstraßen entlang in ihre Nachbarländer ein und ließen die früheren Einwohner, wenn sie nicht ganz energisch von ihnen gereizt wurden, in den Gebirgen neben sich. In den Bergen von Süd-Hu nan haben sich so bis heute „die wilden Yao“ erhalten, und im Südwesten Chinas leben zwischen die Chinesen eingesprengt die Stämme der Miao tse, der unabhängigen Lolo u. a. m. Im Nordwesten, bei Hsi ning, begannen die Chinesen — wie oben S. 175 und 188 erwähnt — schon vor über 2000 Jahren vorzudringen. Sie wurden aber durch immer neue Störungen von Nomaden aufgehalten, nachdem 177 v. Chr. die Hsiung nu (die Hunnen) die heutige Zentralmongolei erobert hatten. Mit Beginn des 4. Jahrhunderts tauchen die Tu ku hun (früher wahrscheinlich immer Tu yü hun ausgesprochen) mit 1100 Familien in Kan su und am Kuku nor auf, Sie sollen — wie vorhin gesagt — eine östliche Abzweigung der Hsiung nu vorstellen und turko-mongolischen Stammes sein. Im Jahre 445 eroberte einer ihrer Khane die reiche Stadt Khotan in Turkistan und tötete den dortigen König. 556 bestanden sie mit Türken, die von Norden kamen, schwere Kämpfe. Um 590 zählten sie 15 000 Familien und im Lauf der Jahre machten sie wiederholte Einfälle tief in chinesisches Gebiet hinein, bis schließlich 635 (nach über 300 Jahren) die Chinesen ihnen eine empfindliche Schlappe beibrachten. Kurz darauf (663) wurden sie von den Tibetern, die im Süden saßen, und deren Stämme damals gerade der größte tibetische Herrscher Srong btsan sgam bo unter seinem Zepter vereinigt hatte, aufs Haupt geschlagen. Die Tibeter (die Tu fan der chinesischen Chroniken) vertrieben sie von den saftigen Weiden des Kuku nor und jagten sie in das Nan schan-Gebirge, und ihr letzter König soll mit Resten seines Volkes vom Nan schan nach Ning hsia geflüchtet sein, wo die Nation angeblich ums Jahr 672 verschwand. Sie werden aber in der Folge noch einige Male im „Tang schu“ erwähnt. Reste von ihnen müssen sich noch in Kan su haben erhalten können.<br />Das Volk der Tu ren sitzt nun nicht bloß um Wei yüan bu (mit etwa 3000 Familien), sondern mit einigen hundert Familien bereits südlich des Hoang ho bei Baungan zwischen Tibetern und Salaren eingeklemmt, weitere 2000—3000 Familien sitzen in San tschuan, an den unzugänglichsten Stellen des Hoang ho unterhalb Hsün hoa ting, endlich 2000 Familien am Da tung ho, und ganz im Norden gehören die sogenannten Hoang fan oder „gelben Barbaren“ in den Tälern der Richthofenkette des Nan schan, am Oberlauf des Edsingol, dazu. Es sind große Volksreste, die es für jeden sehr wahrscheinlich machen, daß sie einst zu etwas Besserem und Größerem gehört haben, und da in den chinesischen Chroniken von keinem anderen Volk als später den Khoschoten-Mongolen erzählt wird, daß es hier ein bedeutenderes Reich gründete, so „müssen“ fast schon deshalb die Tu ren die letzten Reste der Tu ku hun sein. Sie werden auch späterhin einen Teil der Bevölkerung im Hsi Hsia-Reich ausgemacht haben, das um den Besitz von Hsi ning, Niem be hsien und deren Nachbarschaft lange Kämpfe mit den Chinesen und Tibetern geführt hat. Ob sie aber im Hsi Hsia-Reich die herrschende Rolle gespielt haben — wie ein Li Tuse, ein Fürst der Tu ren, mir sagte — erscheint mir zweifelhaft. Ihre Wohnsitze scheinen mir hierfür zu weit nach Süden gerückt. Die Zerstörung des Hsi Hsia-Reiches, wie die Eroberung des chinesischen Sung-Reiches durch Dschinggis Khan und seine Nachfolger rief kein Ausrotten und Vertreiben der Völker hervor, weil der Ansturm der Mongolen vom Altai mit seiner relativ geringen Menschenzahl nur Dynastien stürzen und Städte plündern, aber nicht ganze Völker ersetzen und vernichten konnte.<br />Sanan Setsen, in seiner Geschichte der Ostmongolen, berichtet uns, daß Yen ta (Altan Gegen Khan) bei seinem Zug nach Osttibet zu Ende des 16. Jahrhunderts die „Schara Uigur“, die hier saßen, bekriegte und mehrere ihrer Adligen gefangen nahm.
 Diese Schara oder gelben Uigur (Igh‘or) sind aber nichts anderes als die „Hor“ der tibetischen Geschichte und die alten „Tu ku hun“ (Tu yü hun).]{.footnote}
