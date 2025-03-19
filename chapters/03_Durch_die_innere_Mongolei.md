@@ -2622,11 +2622,7 @@ Schwanz. Kein Zureden half und ich wollte doch kein salomonisches Urteil fällen
 ![Abb. 12. Yü hoang (hwang) ti, der Edelsteinkaiser, der höchste taoistische Herrscher und Gott in der unsichtbaren Welt.](Meine_Tibetreise_I_146.jpg "Abb. 12. Yü hoang (hwang) ti, der Edelsteinkaiser, der höchste taoistische Herrscher und Gott in der unsichtbaren Welt."){#b146}
 ::::
 
-
-
 :::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [Rockhill, Diary, 1894, S. 14, „100&nbsp;000 to 120&nbsp;000“. Richard, Geography, glaubt an 200&nbsp;000 E., Potanin 40&nbsp;000 E.]{.footnote}
 

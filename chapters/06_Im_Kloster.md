@@ -1295,8 +1295,6 @@ Gepränge nicht vergessen.
 
 :::
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0600]: [Während dieser Festtage versammeln sich alle Gelug ba-Mönche, um zusammen ihre smonlam-Gebetsammlung zu lesen. Diese Feier wurde 1408 von Tsong ka ba eingeführt.]{.footnote}
 
 [^0601]: [Das Kloster Gum bum heißen die Chinesen Ta ör se, was etwa mit „Türmchenkloster“ übersetzt werden kann. sGum bum gomba, wobei der s-Laut nur leicht anklingt, heißen es die Tibeter. Geschrieben wird dieser Name sGum bum im Tibetischen als skuhbum; dies heißt auf deutsch: hunderttausend Heiligenbilder. Es ist das „Kloster der hunderttausend Heiligenbilder“.<br />Gomba oder geschrieben dgon ba ist die tibetische Bezeichnung für unser deutsches Wort Kloster. Das Wort bedeutet ursprünglich „Waldeinsamkeit“ oder -einsiedelei, und deshalb sollen auch heute noch alle Klöster von Dörfern und Städten entfernt liegen und haben möglichst mehr oder minder künstliche Wäldchen in ihrer Umgebung.<br />Aus diesen beiden Beispielen ist gleichzeitig zu ersehen, daß man im Tibetischen nicht genau so schreibt, wie man spricht. Die heutige nordtibetische Umgangssprache hat viele Konsonanten abgeschliffen und oft andere fast regellos eingefügt. Aus diesem Grunde ist es auch so sehr schwer, die tibetischen Ortsnamen richtig zu schreiben.<br />Im Gegensatz zu den vielen früheren Reisenden schreibe ich Gum bum und nicht Kum bum. Da „k“, der erste Buchstabe im tibetischen Alphabet, in ganz Osttibet nicht wie unser deutsches k, sondern wie g ausgesprochen wird, und das tibetische g, der dritte Buchstabe, sich dort einem ng im Laut nähert, scheint mir diese Schreibweise für das Deutsche zweckmäßiger oder jedenfalls ähnlicher klingend.]{.footnote}

@@ -1129,8 +1129,6 @@ im Wulasetä-Tal im Standlager.
 
 :::
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^1000]: [Papilio machaon-ladakensis Moore; Pap. tamerlanus Oberthür; Armzmdia thaidina Blanch., Aporia hippia-tibetana Gr.; Mesapia peloria Hew.; Melitaca didymaturanica Stgr. wurden hier u.a. gesammelt.]{.footnote}
 
 [^1001]: [Ich fand später noch heraus, daß in dieser Kette auch der Paß Wahong la liegt. Tibeter nannten sie die Berge des Wahong la.]{.footnote}

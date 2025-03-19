@@ -1578,8 +1578,6 @@ wieder an der allgemeinen Unterhaltung teil.
 
 :::
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0400]: [Die Stelle des Gao lan’hsien galt für sehr arbeitsreich, aber für eine schlechte Pfründe. Diese Beamten wurden daher meist nach einem Jahr schon auf eine gute Pfründe versetzt. Wenn sie es verstanden, bei ihren hohen Vorgesetzten einen guten Eindruck zu machen und ihnen viele Arbeit abzunehmen, so erhielten sie meist Ts‘in tschou im darauffolgenden Jahre. Ich hörte von einem Mandarinen, der dreimal zwischen diesen beiden Ämtern wechselte, d. h. in einem Jahre mußte er darauflegen, im anderen Jahre konnte er wieder gut verdienen.]{.footnote}
 
 [^0401]: [Nach halbjährigen Verhandlungen — die „Eltern des Volks“ wollten lange nichts von einer Änderung wissen — gelang es 1 Jahr nach meiner Ankunft einer deutschen Firma, den Auftrag zu bekommen, einen eisernen Steg über den Fluß zu bauen. Dieser ist in den Jahren 1908—1911 hergestellt worden.]{.footnote}

@@ -678,8 +678,6 @@ weit sicherer und besser im Leihhaus.“
 
 :::
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0700]: [Im Ehrentempel des berüchtigten Tung fu hsiang, den ihm die dankbare Stadt für die Befreiung von den Dunganen 1899 setzte und in dem ihm schon bei Lebzeiten Weihrauch geopfert wurde. Der Tempel war der schönste der Stadt, denn er war noch neu. Da man aber in Hsi ning einer vielfach in China verbreiteten Sitte huldigt, daß man lieber einmal einen ganz neuen Tempel stiftet, als jährlich etwas Geld zur Erhaltung der alten, so wird wohl auch das neue Gebäude in wenigen Jahrzehnten als halbzerfallene Ruine dastehen wie die anderen Tempel der Stadt.]{.footnote}
 
 [^0701]: [Schon in den ältesten klassischen Sittenlehren steht, daß Schwager und Schwägerin sich nicht berühren sollen. Wenn er ihr etwas, z. B. Geld, zu geben hat, so legt er es vor ihr auf den Tisch oder den Boden.]{.footnote}

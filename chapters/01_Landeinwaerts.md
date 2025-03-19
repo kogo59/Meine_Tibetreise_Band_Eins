@@ -1897,11 +1897,7 @@ durch den gelben Lößstaub zum Gelben geworden.
 ::::
 <small>Zusammengesetzt aus den chinesischen Zeichen der zwei aus der Zeit des Konfucius (551—479 v. Chr.) stammenden klassischen Zitate: „sheng sin hsin schen“ = ein gerader Sinn, ein gesunder Körper (aus Ta hsio, Kap. 1); „ko tschi fu li“ = sich selbst besiegen und Schicklichkeit üben (aus Lun yü, Kap. 12). Kuei hsing bewohnt das Sternbild des Großen Bär und gibt dem Zeichen des letzten Sterns im Großen Bär einen Fußtritt. (Verkleinerung nach einem alten Inschriftenstein im Be ling (Inschriftenhain) in Hsi ngan fu, natürliche Größe 1,30 m.)</small>
 
-
 :::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0101]: [*Ferdinand Freiherr v. Richthofen*: vergleiche [Ferdinand von Richthofen](https://de.wikipedia.org/wiki/Ferdinand_von_Richthofen)]{.footnote}
 

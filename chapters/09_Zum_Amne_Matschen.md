@@ -1850,7 +1850,7 @@ vergeblich, den Hahn meiner Pistolen zu spannen.
 ::::
 
 :::: { .wrap-100 }
-![Auf den Sommerweiden der Mongolen des Schang tsa Kambo.<small>(Das Rhabarberland am Südostrand von Ts'aidam, s. S. 341.) </small>.](Meine_Tibetreise_I_320c.jpg "Auf den Sommerweiden der Mongolen des Schang tsa Kambo."){#b320c}
+![Auf den Sommerweiden der Mongolen des Schang tsa Kambo. <small>(Das Rhabarberland am Südostrand von Ts'aidam, s. S. 341.) </small>.](Meine_Tibetreise_I_320c.jpg "Auf den Sommerweiden der Mongolen des Schang tsa Kambo."){#b320c}
 ::::
 
 :::: { .wrap-80 }
@@ -2188,9 +2188,6 @@ groß, war mir meine Karawane zu kostbar. Mein großes Ziel viel weiter im Weste
 ::::
 
 :::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0900]: [Diese Ara gol-Ebene ist heute von Tibetern und zwar vom Tscham ri-Stamme besetzt. Bis vor achtzig Jahren war es das Land des ersten Banners der Tschoros-Mongolen mit elf Schwadronen, an das im Westen am Seeufer das eine Banner Khalakha angrenzte.]{.footnote}
 

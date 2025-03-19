@@ -150,8 +150,6 @@ ausgedrückt.
 :::
 
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0000]: [G. Schulemann, Über einige geographische Namen Tibets und ihre Rechtschreibung. Peterm. Mitt., Juli 1911.]{.footnote}
 
 [^0001]: [*G.Schulemann*: vergleiche [Günther Schulemann](https://de.wikipedia.org/wiki/G%C3%BCnther_Schulemann)]{.footnote}

@@ -2051,8 +2051,6 @@ wirklich lebhafte und große Chinesenstadt ein, in Kuei hoa tscheng.
 :::
 
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0200]: [Die Blätter der sogenannten deutschen Generalstabskarte: Ost-China 1:1000 000 sind — was die westlichen Teile betrifft — bisher nur eine Übersetzung dieser alten Jesuitenkarte. Diese Blätter bringen aber bis heute das Beste, was wir von jenen Gegenden besitzen.]{.footnote}
 
 [^0201]: [*Obrutschew*: vergleiche [Wladimir Afanassjewitsch Obrutschew](https://de.wikipedia.org/wiki/Wladimir_Afanassjewitsch_Obrutschew)]{.footnote}
