@@ -42,7 +42,7 @@ pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) $(METADATA) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/epub
-	$(PANDOC) $(ARGS) --extract-media=../ --from  markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to epub+raw_html --resource-path=$(IMAGES_FOLDER) --epub-cover-image=$(COVER_IMAGE) -o $@  $(PREFACE_EPUB) $(CHAPTERS)
+	$(PANDOC) $(ARGS) --from  markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to epub+raw_html --resource-path=$(IMAGES_FOLDER) --epub-cover-image=$(COVER_IMAGE) -o $@  $(PREFACE_EPUB) $(CHAPTERS)
 
 	$(CALIBRE)ebook-polish --add-soft-hyphens -i -p -U  $@ $@
 	$(CALIBRE)ebook-convert $@ $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 --share-not-sync --disable-font-rescaling
@@ -77,4 +77,3 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_F
 	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --extract-media=. --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=json $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS) | sed  's/ch....xhtml//g'  | pandoc $(ARGS_HTML)  $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --from=json --to=pdf -o $@
 	rm  $(IMAGES_FOLDER)/*.css
 	rm *.jpg
-	
