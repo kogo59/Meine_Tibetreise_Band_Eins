@@ -1,6 +1,6 @@
 # Meine Tibetreise. Erster Band.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/227038593-70eb63ab-9930-4783-aef3-4fac31ead594.jpg">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/13177792/227038593-70eb63ab-9930-4783-aef3-4fac31ead594.jpg">
 
 This is a git repository of the source files for the book "Meine Tibetreise von Dr. Albert Tafel. Erster Band."
 
